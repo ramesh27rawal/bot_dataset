@@ -1,6 +1,7 @@
 import pandas as pd
 import openai
-api_key = "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"
+key = "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"
+api_key = key#"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"
 openai.api_key = api_key
 import requests
 import json
@@ -43,19 +44,19 @@ def prepare_message(input_message, products_list):
     message_objects.append({"role": "user", "content": input_message[0]})
 
     # message_objects.append({"role": "user", "content": f"Here're my latest restaurant visit: {prev_purchases}"})
-
-    # message_objects.append(
-    #     {"role": "user", "content": f"Please just give "
-    #                                 f" details of restaurants with  explanation."})
+    #
+    message_objects.append(
+        {"role": "user", "content": f"Please just give "
+                                    f" details of restaurants with  explanation."})
     message_objects.append({"role": "user",
                             "content": "Please be friendly and talk to"
                                        " me like a person, Don't just give me details of restaurant"})
     # message_objects.append({"role": "assistant", "content": f"I found these restaurants I would recommend"})
 
-    # message_objects.extend([products_list[0]])
-    # if input_message[1] != "":
-    #     print("Inside")
-    #     message_objects.append({"role": "assistant", "content": input_message[1]})
+    message_objects.extend([products_list[0]])
+    if input_message[1] != "":
+        print("Inside")
+        message_objects.append({"role": "assistant", "content": input_message[1]})
     #                         # "content": "Here's the details of cuisines served in restaurant:"})
 
     return message_objects
@@ -96,16 +97,16 @@ def generate_chat_completion(messages, model="gpt-4", temperature=1, max_tokens=
 
 
 def main():
-    # data_df = data_prepare()
+    data_df = data_prepare()
     # print(data_df.dtypes.index)
-    # prev_purchases = data_df['combined'].values[0]
+    prev_purchases = data_df['combined'].values[0]
     products_list = []
 
-    # data_df = data_df.sample(n=50)
+    data_df = data_df.sample(n=50)
     # print(data_df.City.unique())
-    # for index, row in data_df.iterrows():
-    #     brand_dict = {'role': "assistant", "content": f"{row['combined']}"}
-    #     products_list.append(brand_dict)
+    for index, row in data_df.iterrows():
+        brand_dict = {'role': "assistant", "content": f"{row['combined']}"}
+        products_list.append(brand_dict)
     # print(products_list)
     chatbot = True
     datasets_lst = []
@@ -114,8 +115,8 @@ def main():
 
         user_input = input("Your Message:")
         # system_input = input("System message:")
-        # final_input = input("Bot Message: ")
-        input_message = [user_input]#, final_input, system_input]
+        final_input = input("Bot Message: ")
+        input_message = [user_input, final_input]#, system_input]
         message = prepare_message(input_message, products_list)
         responses = feed_chatgpt_model(message)
         print(responses)

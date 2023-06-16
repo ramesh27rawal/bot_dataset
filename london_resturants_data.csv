@@ -1,0 +1,514 @@
+Name,Location,Contact,Rating,PRICE RANGE,CUISINES,MEALS,SPECIAL DIETS,FEATURES,id
+Vasinikó London,"7-9 Burleigh Street, London WC2E 7PW England",+44 20 7836 8628,5.0,10.95 - 34.84,"Italian, Northern-Italian, Central-Italian, Southern-Italian","Lunch, Dinner",,,0
+Sitara,"784 Holloway Road Archway, London N19 3JH England",+44 20 7281 0648,5.0,,Indian,Dinner,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,1
+Awesome Thai #Finchley,"826 High Road North Finchley, London N12 9RA England",+44 20 8492 8477,5.0,,"Asian, Thai","Dinner, Lunch",Vegetarian Friendly,,2
+Jamon Jamon Belsize Park,"177 Haverstock Hill, London NW3 4QS England",+44 20 7483 4242,4.0,9.95 - 19.91,"Mediterranean, Spanish, International, Catalan",,"Vegetarian Friendly, Gluten Free Options",,3
+Uzumaki London,"107 Great Russell Street, London WC1B 3NA England",+44 7746 998623,5.0,2.38 - 18.2,"Japanese, Asian, Japanese Fusion","Lunch, Dinner, Drinks",,,4
+Gusto D'Oro,"Brownhill Road 8 Eros House, London SE6 2EF England",+44 20 3581 5312,5.0,7.91 - 15.82,"Italian, Mediterranean, Neapolitan, Campania, Central-Italian, Southern-Italian","Lunch, Dinner, Late Night, Drinks",,,5
+The Clink Restaurant,"Brixton Jebb Avenue Brixton, London SW2 5XF England",+44 20 8678 9007,5.0,19.91 - 39.81,"European, British, Contemporary",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,6
+The Drift,"110 Bishopsgate Salesforce Tower, London EC2N 4AY England",+44 20 3004 4969,4.5,7.96 - 24.88,"Bar, International, European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,7
+Double J's Cafe,"333 Euston Road, London NW1 3AD England",+44 20 7388 1212,5.0,,"Cafe, British","Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options",,8
+Publiq.,"1 Palace Gate 1 D, London W8 5LS England",+44 20 3417 6768,5.0,29.86 - 64.69,"Bar, International, British, Dining bars","Lunch, Dinner, Late Night, Drinks",,,9
+Turmeric Kitchen London Paddington,"55 Westbourne Terrace, London W2 3UY England",+44 20 4542 4565,4.5,14.24 - 22.15,"Indian, European","Lunch, Dinner, Drinks",,,10
+The Lounge Cafe,"Welford Centre 113 Chalkhill Road The Welford Centre, London HA9 9FX England",+44 7771 730946,5.0,1.99 - 7.96,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,11
+Th@51,"51 Buckingham Gate, London SW1E 6AF England",+44 20 7834 6655,5.0,31.64 - 63.29,"Bar, International, Grill, Contemporary, Dining bars","Lunch, Dinner, Late Night, Drinks",,,12
+Latitude Wimbledon,"138 Merton Road Wimbledon, London SW19 1EH England",+44 20 8542 6500,5.0,5.97 - 16.92,"European, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,13
+Cord by Le Cordon Bleu,"85 Fleet Street, London EC4Y 1AE England",+44 20 3143 6365,4.0,25.31 - 72.79,"French, International, European","Lunch, Dinner, Drinks",,,14
+Cafe Parisienne,"225 Lavender Hill, London SW11 1JR England",+44 20 7924 5523,5.0,3.95 - 11.87,"Cafe, European, British, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,15
+Anilo's Kitchen,"6 Exmouth Market, London EC1R 4PX England",+44 20 7837 0909,5.0,,"Mediterranean, Turkish","Lunch, Dinner",,,16
+Hiba Street,"10 Tottenham Street Between Goodge Street Station and Warren Tube Station, London W1T 4RD England",+44 20 7636 6735,5.0,4.97 - 14.93,"Lebanese, Mediterranean, Street Food, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,17
+Colonel Saab,"193-197 High Holborn, London Holborn Town Hall, London WC1V 7BD England",+44 20 8016 6800,4.5,34.84 - 59.72,"Indian, International, Contemporary","Lunch, Dinner, Late Night, Drinks",,,18
+Indian Lounge,"343 Gray's Inn Road Wc1 X8px, London WC1X 8PX England",+44 20 7837 8398,4.5,,"Indian, Asian, Healthy, Balti, Bangladeshi","Lunch, Dinner, Brunch, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,19
+Dobar,"324A Green Lanes, London N4 1BX England",+44 20 7686 3257,5.0,4.97 - 13.93,"Cafe, European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,20
+The Hampshire,"225-227 King Street Hammersmith, London W6 9JT England",+44 20 8748 3391,5.0,9.95 - 49.76,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,21
+L'Angolo Bianco,"49 Crawford Street Marylebone, London W1H 1JZ England",+44 20 7724 5888,5.0,,"Italian, European, Cafe","Lunch, Breakfast","Vegetarian Friendly, Vegan Options",,22
+The Gardeners Pub,"Southfields 268 Merton Road, London SW18 5JL England",+44 20 3601 2455,4.5,3.95 - 19.78,"Bar, British, Pub",,Vegetarian Friendly,,23
+Vasinikó London,"7-9 Burleigh Street, London WC2E 7PW England",+44 20 7836 8628,5.0,10.95 - 34.84,"Italian, Northern-Italian, Central-Italian, Southern-Italian","Lunch, Dinner",,,24
+Sitara,"784 Holloway Road Archway, London N19 3JH England",+44 20 7281 0648,5.0,,Indian,Dinner,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,25
+Awesome Thai #Finchley,"826 High Road North Finchley, London N12 9RA England",+44 20 8492 8477,5.0,,"Asian, Thai","Dinner, Lunch",Vegetarian Friendly,,26
+Jamon Jamon Belsize Park,"177 Haverstock Hill, London NW3 4QS England",+44 20 7483 4242,4.0,9.95 - 19.91,"Mediterranean, Spanish, International, Catalan",,"Vegetarian Friendly, Gluten Free Options",,27
+Uzumaki London,"107 Great Russell Street, London WC1B 3NA England",+44 7746 998623,5.0,2.38 - 18.2,"Japanese, Asian, Japanese Fusion","Lunch, Dinner, Drinks",,,28
+Gusto D'Oro,"Brownhill Road 8 Eros House, London SE6 2EF England",+44 20 3581 5312,5.0,7.91 - 15.82,"Italian, Mediterranean, Neapolitan, Campania, Central-Italian, Southern-Italian","Lunch, Dinner, Late Night, Drinks",,,29
+The Clink Restaurant,"Brixton Jebb Avenue Brixton, London SW2 5XF England",+44 20 8678 9007,5.0,19.91 - 39.81,"European, British, Contemporary",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,30
+The Drift,"110 Bishopsgate Salesforce Tower, London EC2N 4AY England",+44 20 3004 4969,4.5,7.96 - 24.88,"Bar, International, European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,31
+Double J's Cafe,"333 Euston Road, London NW1 3AD England",+44 20 7388 1212,5.0,,"Cafe, British","Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options",,32
+Publiq.,"1 Palace Gate 1 D, London W8 5LS England",+44 20 3417 6768,5.0,29.86 - 64.69,"Bar, International, British, Dining bars","Lunch, Dinner, Late Night, Drinks",,,33
+Turmeric Kitchen London Paddington,"55 Westbourne Terrace, London W2 3UY England",+44 20 4542 4565,4.5,14.24 - 22.15,"Indian, European","Lunch, Dinner, Drinks",,,34
+The Lounge Cafe,"Welford Centre 113 Chalkhill Road The Welford Centre, London HA9 9FX England",+44 7771 730946,5.0,1.99 - 7.96,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,35
+Th@51,"51 Buckingham Gate, London SW1E 6AF England",+44 20 7834 6655,5.0,31.64 - 63.29,"Bar, International, Grill, Contemporary, Dining bars","Lunch, Dinner, Late Night, Drinks",,,36
+Latitude Wimbledon,"138 Merton Road Wimbledon, London SW19 1EH England",+44 20 8542 6500,5.0,5.97 - 16.92,"European, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,37
+Cord by Le Cordon Bleu,"85 Fleet Street, London EC4Y 1AE England",+44 20 3143 6365,4.0,25.31 - 72.79,"French, International, European","Lunch, Dinner, Drinks",,,38
+Cafe Parisienne,"225 Lavender Hill, London SW11 1JR England",+44 20 7924 5523,5.0,3.95 - 11.87,"Cafe, European, British, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,39
+Anilo's Kitchen,"6 Exmouth Market, London EC1R 4PX England",+44 20 7837 0909,5.0,,"Mediterranean, Turkish","Lunch, Dinner",,,40
+Hiba Street,"10 Tottenham Street Between Goodge Street Station and Warren Tube Station, London W1T 4RD England",+44 20 7636 6735,5.0,4.97 - 14.93,"Lebanese, Mediterranean, Street Food, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,41
+Colonel Saab,"193-197 High Holborn, London Holborn Town Hall, London WC1V 7BD England",+44 20 8016 6800,4.5,34.84 - 59.72,"Indian, International, Contemporary","Lunch, Dinner, Late Night, Drinks",,,42
+Indian Lounge,"343 Gray's Inn Road Wc1 X8px, London WC1X 8PX England",+44 20 7837 8398,4.5,,"Indian, Asian, Healthy, Balti, Bangladeshi","Lunch, Dinner, Brunch, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,43
+Dobar,"324A Green Lanes, London N4 1BX England",+44 20 7686 3257,5.0,4.97 - 13.93,"Cafe, European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,44
+The Hampshire,"225-227 King Street Hammersmith, London W6 9JT England",+44 20 8748 3391,5.0,9.95 - 49.76,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,45
+L'Angolo Bianco,"49 Crawford Street Marylebone, London W1H 1JZ England",+44 20 7724 5888,5.0,,"Italian, European, Cafe","Lunch, Breakfast","Vegetarian Friendly, Vegan Options",,46
+The Gardeners Pub,"Southfields 268 Merton Road, London SW18 5JL England",+44 20 3601 2455,4.5,3.95 - 19.78,"Bar, British, Pub",,Vegetarian Friendly,,47
+The Hampshire,"225-227 King Street Hammersmith, London W6 9JT England",+44 20 8748 3391,5.0,9.95 - 49.76,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,48
+Room 43 Bar & Kitchen,"43 Lavender Hill, London SW11 5QW England",+44 20 7924 3360,5.0,6.97 - 21.89,"Mediterranean, Middle Eastern, Bar, Persian, Pub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,49
+Zeret Kitchen,"216-218 Camberwell Road, London SE5 0ED England",+44 20 7701 8587,5.0,,"African, Ethiopian","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,50
+Fishcotheque,"79A Waterloo Road, London SE1 8UD England",+44 20 7803 9892,4.5,,"Seafood, Fast Food, British","Lunch, Dinner, Late Night",,"Takeout, Reservations, Seating, Highchairs Available, Wheelchair Accessible, Table Service",51
+London Shell Co. Aboard The Prince Regent,"Sheldon Square Regent's Canal, London W2 6EP England",+44 7553 033636,5.0,44.78 - 99.53,"Seafood, British",,Gluten Free Options,,52
+Gouqi London,"25-34 Cockspur Street, St James's Trafalgar Square, Opposite the Canadian Embassy, London SW1Y 5BN England",+44 20 3771 8886,5.0,31.64 - 79.12,"Chinese, Asian","Lunch, Dinner, Drinks",,,53
+Everest Inn - Blackheath Village,"41 Montpelier Vale Blackheath, Village, London SE3 0TJ England",+44 20 8852 7872,4.5,19.91 - 48.77,"Indian, Asian, Nepali",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,54
+Visconti Of Westminster,"Marsham Court Marsham Street, London SW1P 4LA England",+44 20 8191 1781,5.0,17.92 - 51.76,"Italian, Bar, Mediterranean, Pub, Central-Italian, Southern-Italian","Lunch, Dinner, Drinks",,,55
+Bloomsbury Street Kitchen,"9-13 Bloomsbury Street, London WC1B 3QD England",+44 20 7666 2044,5.0,21.89 - 59.72,"Japanese, Mediterranean, European, Central-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,56
+The Jasmine by Spice Nouv-Oh!,"331 The Broadway Bexleyheath, London DA6 8DT England",+44 20 8616 0880,5.0,,"Indian, Healthy, Fusion",Dinner,"Halal, Vegetarian Friendly, Vegan Options, Gluten Free Options",,57
+Pizza Union Holborn,"1 New Oxford Street, London WC1A 1NU England",Website,5.0,,"Italian, Pizza, Fast Food","Lunch, Dinner",,,58
+The India - Best of the City,"Cannon Street 21 College Hill, London EC4R 2RP England",+44 20 7248 5855,5.0,9.95 - 29.86,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,59
+Bocas,"180 St. John Street, London EC1V 4JY England",+44 7474 734052,5.0,,"Argentinean, South American, Bar, Spanish, Pub, Fusion","Lunch, Dinner, Brunch, Late Night, Drinks",,"Reservations, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Table Service, Non-smoking restaurants",60
+Lord Clyde Southwark,"London, SE1 1ER 27 Clennam Street, London SE1 1ER England",+44 20 7407 5643,5.0,,"Bar, British, Pub","Lunch, Dinner, Brunch, Drinks",,"Reservations, Seating, Serves Alcohol, Television",61
+Smith & Whistle,"The Park Lane 112 Piccadilly, London W1J 7BX England",+44 20 7499 6321,4.5,7.96 - 11.95,"Bar, British",,"Vegetarian Friendly, Vegan Options",,62
+Moira Restaurant,"2 Mastmaker Road, London E14 9AW England",+44 20 7538 9001,5.0,4.97 - 17.92,"Mediterranean, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,63
+Cilantro,"244 Upper Richmond Road, London SW15 6TG England",+442033439317,5.0,,Indian,"Dinner, Brunch",,"Reservations, Delivery, Takeout, Seating, Street Parking, Serves Alcohol, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style, Non-smoking restaurants",64
+Chez Abir Restaurant,"34 Blythe Road, London W14 0HA England",+44 20 7603 3241,5.0,6.97 - 14.93,"Lebanese, Mediterranean, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,65
+Cafe de Provence,"14 Drury Lane Covent Garden, London WC2B 5RB England",+44 20 7497 2757,5.0,,"Cafe, European, British, Healthy","Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,66
+Wild Thyme,"2B Thorpebank Road, London W12 0PQ England",+44 20 8354 9321,5.0,4.97 - 14.93,"Cafe, European, British, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,67
+Magic Falafel,"Unit 312-313, Camden Market, London NW1 8AH England",+44 7482 646499,5.0,,"Fast Food, Mediterranean, Middle Eastern","Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,68
+Namaste @ OMNOM,"116N Upper Street Islington Square, London N1 1QP England",+44 7305 225501,5.0,7.96 - 24.88,Street Food,,"Vegetarian Friendly, Vegan Options",,69
+Jamon Jamon Belsize Park,"177 Haverstock Hill, London NW3 4QS England",+44 20 7483 4242,4.0,9.95 - 19.91,"Mediterranean, Spanish, International, Catalan",,"Vegetarian Friendly, Gluten Free Options",,70
+Revolution Bar Clapham High Street,"95-97 Clapham High Street, London SW4 7TB England",+44 20 7720 6642,4.5,4.97 - 13.93,"Bar, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,71
+Oi Vita Pizzeria,"67 Newington Green Road, London N1 4QU England",+44 20 3302 8700,5.0,3.98 - 16.92,"Italian, Pizza, Mediterranean, European, Neapolitan, Campania, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,72
+Taste Of Jaipur,"74 Brick Lane, London E1 6RL England",+44 20 3149 9875,5.0,,"Indian, Bar, Asian, Contemporary, Balti","Lunch, Dinner, Late Night, Drinks",,"Reservations, Takeout, Private Dining, Seating, Parking Available, Street Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Discover, Accepts Credit Cards, Table Service, Beach, BYOB, Family style, Non-smoking restaurants",73
+The Hayden,"65 Westbourne Grove, London W2 4UJ England",+44 20 7229 2233,5.0,,"Bar, British","Lunch, Dinner, Brunch, Breakfast","Vegan Options, Gluten Free Options",,74
+Mamalu Restaurant,"314 Earls Court Road, London SW5 9BQ England",+44 20 3870 5594,4.0,3.95 - 52.22,"Italian, European, Neapolitan, Campania, Northern-Italian, Central-Italian, Southern-Italian","Dinner, Late Night, Drinks",,,75
+Turtle Bay - Brixton,"382-384 Brixton Road, London SW9 7AW England",+44 20 7737 2264,4.5,5.97 - 13.93,"Caribbean, Jamaican",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,76
+Bar 61 Restaurant,"61A Streatham Hill, London SW2 4TX England",+44 20 8671 0444,5.0,15.03 - 27.69,"Mediterranean, European, Spanish",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,77
+Maharaja of India,"19A Charing Cross Road, London WC2H 0ET England",+44 20 3091 3500,4.5,14.93 - 29.86,"Indian, Asian, Bar, Pub, Beer restaurants",,Vegetarian Friendly,,78
+Tattu London,"The Now Building Rooftop, Outernet, Denmark Place, London WC2H 0LA England",+44 20 3778 1985,4.5,,"Chinese, Japanese, Asian, International","Lunch, Dinner, Drinks",,"Wine and Beer, Gift Cards Available",79
+Liman Restaurant,"60 Penton Street The Angel, London N1 9PZ England",+44 20 3583 6442,5.0,9.95 - 22.89,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,80
+Sanjugo Shoreditch,"35 Scrutton Street Shoreditch, London EC2A 4HU England",+44 20 7613 3225,5.0,24.88 - 54.74,"Japanese, Seafood, Sushi, Asian",,"Vegetarian Friendly, Gluten Free Options, Vegan Options",,81
+Knife Restaurant,"160 Clapham Park Road, London SW4 7DE England",+44 20 7627 6505,5.0,9.95 - 29.86,"Steakhouse, British",,Gluten Free Options,,82
+Oliveira Kitchen Shoreditch,"80-84 Paul Street, London EC2A 4NE England",+44 20 7729 0481,5.0,24.88 - 59.72,"Healthy, International, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,83
+MAP Maison,"321 Kingsland Road, London E8 4DL England",+44 20 7241 1441,5.0,5.97 - 14.93,International,,Vegan Options,,84
+Flour To The People Pizza!,"573 Battersea Park Road, London SW11 3BJ England",+44 20 7228 5672,5.0,7.96 - 13.93,Pizza,,"Vegan Options, Gluten Free Options",,85
+"Indian Express, West Kensington","3 North End Parade West Kensington, London W14 0SJ England",+44 20 7610 1777,4.5,,"Indian, Asian, Balti","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,86
+Bustronome,"Coach Bay 40B, Victoria Embankment, London WC2N 6PB England",+44 20 3744 5554,5.0,64.69 - 149.29,"French, European, Contemporary, Fusion",,Vegetarian Friendly,,87
+The Chelsea Corner,"451 Fulham Road, London SW10 9UZ England",+44 20 3055 0088,5.0,4.97 - 25.88,"Italian, Pizza, Mediterranean",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,88
+Mosaic,"60 Upper Thames Street The Westin London City, London EC4V 3AD England",+44 20 3988 0143,5.0,19.78 - 39.56,"Healthy, International","Breakfast, Lunch, Dinner, Drinks",,,89
+Da Mario Covent Garden,"63 Endell Street Covent Garden, London WC2H 9AJ England",+44 20 7240 3632,4.5,24.88 - 49.76,"Italian, Mediterranean, European, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,90
+Monkey Temple,"92 Askew Road, London W12 9BL England",+44 20 8743 4597,5.0,9.95 - 24.88,"Indian, Asian, Nepali",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,91
+Mio Restaurant,"58 Great Peter Street, London SW1P 2HD England",+44 20 7222 0058,5.0,,"Italian, Pizza","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,92
+Sushi Tetsu,"12 Jerusalem Passage, London EC1V 4JP England",+44 20 3217 0090,5.0,,"Japanese, Sushi, Asian",Dinner,Gluten Free Options,,93
+Vasinikó London,"7-9 Burleigh Street, London WC2E 7PW England",+44 20 7836 8628,5.0,10.95 - 34.84,"Italian, Northern-Italian, Central-Italian, Southern-Italian","Lunch, Dinner",,,94
+Devran,"170-172 Stoke Newington Road, London N16 7UY England",+44 20 7254 2525,4.5,,"Turkish, Mediterranean, Grill, Middle Eastern","Lunch, Dinner, Drinks","Vegetarian Friendly, Halal",,95
+The Banc,"261-263 West Green Road, London N15 3BH England",+44 20 8888 8898,4.5,19.91 - 49.76,"Steakhouse, Mediterranean, Middle Eastern, Grill, Japanese Fusion",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,96
+Makars Gourmet Mash Bar (London),"190 Shaftesbury Avenue, London WC2H 8JL England",+44 131 226 1178,5.0,,"British, Scottish",Dinner,,,97
+Wassouf Lounge,"4-5 North End Parade West Kensington, London W14 0SJ England",+44 20 7348 3697,5.0,4.97 - 24.88,"Lebanese, Middle Eastern, Mediterranean",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,98
+taNgia,"108 Mitcham Road Tooting Broadway, London SW17 9NG England",+44 20 3774 0779,5.0,9.95 - 24.88,Mediterranean,,"Vegetarian Friendly, Vegan Options, Halal",,99
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,100
+The Bermondsey Bierkeller,"2/4 Tooley Street, London SE1 2SY England",+44 20 7403 6333,5.0,,"American, German, Pizza, Beer restaurants","Lunch, Dinner, Drinks",,"Highchairs Available, Wine and Beer, Accepts Credit Cards, Live Music, Non-smoking restaurants",101
+Rock Star Sushi Bar,"Merton Abbey Mills - Watermill Way Unit 5, The Long Shop, London SW19 2RD England",+44 7473 100008,5.0,29.86 - 59.72,Sushi,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,102
+Tower Mangal,"55-57 Tower Bridge Road SE1 4TL, London England",+44 20 7357 6853,5.0,,"Mediterranean, Turkish, Healthy, Middle Eastern","Lunch, Dinner, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,103
+Anokhi Indian Fine Dining Restaurant,"757 Green Lanes Winchmore Hill, London N21 3SA England",+44 20 8360 4144,5.0,6.97 - 19.91,"Indian, Asian, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,104
+Steak And Lobster Warren Street,"6-7 Warren Street Radisson Blu Edwardian Grafton Hotel, London W1T 5LB England",+44 20 7666 5430,4.5,17.92 - 39.81,"Steakhouse, Seafood, European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,105
+Chojo,"16 Garway Road, London W2 4NH England",+44 7498 285072,5.0,14.93 - 89.57,"Chinese, Taiwanese, Street Food",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,106
+Alcedo Bistro & Bar,"237 Holloway Road, London N7 8HG England",+44 20 7998 7672,5.0,5.97 - 27.87,"European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,107
+Anjanaas,"57-59 Willesden Lane Kilburn, London NW6 7RL England",+44 20 7624 1713,4.5,,"Indian, Asian","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,108
+Tanakatsu,"10 Wakley Street, London EC1V 7LT England",+44 121 389 4111,5.0,10.95 - 14.93,"Japanese, Sushi, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,109
+Home SW15,"146 Upper Richmond Road, London SW15 2SW England",+44 20 8780 0592,5.0,9.95 - 31.85,"British, Healthy, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,110
+Hanwoo Village Korean BBQ Restaurant,"18-19 St. Albans Place Hanwoo Village Korean bbq restaurant, London N1 0NX England",+44 20 7288 1123,4.5,,"Asian, Korean, Grill, Healthy",Lunch,,"Takeout, Outdoor Seating, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style",111
+The English Rose Cafe,"4 Lower Grosvenor Place Victoria, London SW1W 0EJ England",+44 20 7976 6280,4.5,4.97 - 11.95,"Cafe, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,112
+Filika Restaurant,"62 High Street Wanstead Wanstead, London E11 2RJ England",+44 20 8530 1333,5.0,9.95 - 24.88,"Mediterranean, Seafood, Middle Eastern, International",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,113
+Osteria Romana,"3-4 Park Close, Knightsbridge Knightsbridge, London SW1X 7PQ England",+44 20 7584 5819,4.5,25.88 - 39.81,"Italian, Romana, Pizza",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,114
+Fine Foods,"218 Long Lane, London SE1 4QB England",+44 20 7403 7513,5.0,,"Italian, Mediterranean, European","Breakfast, Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,115
+Cilantro,"244 Upper Richmond Road, London SW15 6TG England",+442033439317,5.0,,Indian,"Dinner, Brunch",,"Reservations, Delivery, Takeout, Seating, Street Parking, Serves Alcohol, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style, Non-smoking restaurants",116
+The Library at County Hall,"County Hall Westminster Bridge Road Flats And Block Names, London SE1 7PB England",+44 20 7902 8000,4.5,43.51 - 59.33,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,117
+Chimichurris,"132 Southwark Bridge Road, London SE1 0DG England",+44 20 7928 7414,5.0,13.93 - 33.84,"Steakhouse, Barbecue, Argentinean, Grill",,"Vegetarian Friendly, Gluten Free Options",,118
+Fifth Element,"1 Valentine Row, London SE1 8QW England",+447462461100,5.0,,"Bar, Cafe, International, Deli, Pub, Diner","Lunch, Dinner",,Reservations,119
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,120
+Memories of India Kensington,"18 Gloucester Road Kensington, London SW7 4RB England",+44 20 7589 6450,4.5,17.92 - 28.86,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,121
+Trattoria Raffaele,"94 Sydenham Road, London SE26 5JX England",+44 20 8778 6262,5.0,14.93 - 29.86,"Italian, Pizza, Mediterranean, Seafood, Romana, Lazio, Central-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,122
+The India - Best of the City,"Cannon Street 21 College Hill, London EC4R 2RP England",+44 20 7248 5855,5.0,9.95 - 29.86,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,123
+Morso Abbey Road,"130 Boundary Road, London NW8 0RH England",+44 20 7624 7412,5.0,9.95 - 29.86,"Italian, Bar, Mediterranean, European, Contemporary",,"Vegetarian Friendly, Gluten Free Options, Vegan Options",,124
+Limin',"107B Commercial Street, London E1 6BG England",+44 7812 334549,4.5,3.98 - 11.95,,"Lunch, Dinner, Brunch, Drinks","Vegetarian Friendly, Vegan Options",,125
+Yuu Kitchen,"29 Commercial Street, London E1 6NE England",02073770411,4.5,14.93 - 24.88,"Taiwanese, Japanese, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,126
+KataKata,"132 Brixton Hill, London SW2 1RS England",+44 7534 329883,5.0,3.98 - 7.96,"African, Cafe, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,127
+Buenos Aires Argentine Steakhouse,"32 Turnham Green Terrace, London W4 1QP England",+44 20 8747 8772,4.5,24.88 - 49.76,"Steakhouse, Grill, Argentinean",,Gluten Free Options,,128
+Llerena. Ibérico Tapas Bar,"167 Upper Street, London N1 1US England",+44 20 7704 9977,5.0,14.93 - 29.86,"Mediterranean, European, Spanish",,"Vegetarian Friendly, Gluten Free Options",,129
+Bella Italia,"108/110 Queensway, London W2 3RR England",+44 20 3004 5959,4.5,6.97 - 15.92,Italian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,130
+Pentolina,"71 Blythe Road, London W14 0HP England",+44 20 3010 0091,4.5,,"Italian, Mediterranean, European","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,131
+Caminata,"96 Bedford Hill Balham, London SW12 9HR England",+44 20 8772 0701,4.5,13.93 - 27.87,"Italian, Pizza, European, Neapolitan, Campania, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,132
+Dulwich Tandoori,"54 Lordship Lane, London SE22 8HJ England",+44 20 8693 3012,4.5,4.97 - 9.95,"Indian, Balti, Asian, Bangladeshi",,Vegetarian Friendly,,133
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,134
+Mallow Borough Market,"1 Cathedral Street In Between The Golden Hinde and Borough Market, London SE1 9DE England",+44 20 7846 8785,4.5,2.38 - 12.66,International,,Vegan Options,,135
+Grato,"9 Kensington Square, London W8 5EP England",+44 20 3371 9338,4.5,4.97 - 24.88,"Italian, Mediterranean, Tuscan, Central-Italian, Northern-Italian, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,136
+The Wine Place Covent Garden,"33, The Market Building Covent Garden, London WC2E 8BE England",+44 20 7240 7887,4.5,4.97 - 11.95,"Italian, Wine Bar, Mediterranean, European",,Vegetarian Friendly,,137
+The Falcon Harvester,"Lingfield Crescent Eltham, London SE9 2RN England",+44 20 8850 3663,4.0,2.99 - 14.93,"Bar, British, Pub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,138
+Turmeric Kitchen London Paddington,"55 Westbourne Terrace, London W2 3UY England",+44 20 4542 4565,4.5,14.24 - 22.15,"Indian, European","Lunch, Dinner, Drinks",,,139
+Cirrik 19 Numara Bos,"34 Stoke Newington Road, London N16 7XJ England",+44 20 7249 0400,4.5,9.95 - 24.88,"Mediterranean, Barbecue, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,140
+Hazara,"44 Belsize Lane, London NW3 5AR England",+44 20 7433 1147,4.5,15.82 - 19.78,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,141
+Anglo,"30 St. Cross Street, London EC1N 8UH England",+44 20 7430 1503,4.5,19.78 - 55.38,"European, British",,"Vegetarian Friendly, Gluten Free Options",,142
+Hungry Turtle,"1 Walham Green Court, London SW6 2DH England",+44 7889 629291,5.0,8.96 - 14.93,"Italian, Pizza, European",,"Vegetarian Friendly, Vegan Options",,143
+Carmen Tapas,"6 Clapham Common South Side underground : opposite Clapham Common station, London SW4 7AA England",+44 20 7622 6848,4.5,7.96 - 24.88,"Mediterranean, European, Spanish, International, Catalan",,"Vegetarian Friendly, Gluten Free Options",,144
+Bonoo Indian Tapas,"675 Finchley Road, London NW2 2JP England",+44 20 7794 8899,5.0,19.91 - 29.86,"Wine Bar, Indian, Contemporary, Street Food",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,145
+Turtle Bay Hammersmith,"245 Hammersmith Road, London W6 8PW England",+44 20 3026 0525,5.0,,"Caribbean, Bar, Pub, Jamaican, Dining bars","Lunch, Dinner",,,146
+Devine Restaurant Coffee Bar,"19 Vine Street, London EC3N 2PX England",+44 20 7488 9929,5.0,3.95 - 7.91,"Cafe, British",,"Vegetarian Friendly, Vegan Options",,147
+Kings Chinese Takeaway,"119 Junction Road, London N19 5PX England",+44 20 7272 1138,3.0,,"Chinese, Asian, Street Food",Dinner,Vegetarian Friendly,,148
+Taste Of Nawab,"97 Colney Hatch Lane, London N10 1LR England",+44 20 8883 6429,5.0,14.93 - 19.91,"Indian, Healthy",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,149
+Nora Cafe,"9 Wentworth Street, London E1 7TB England",+44 7786 155696,5.0,,Cafe,"Breakfast, Lunch, Brunch, Late Night, Drinks","Vegetarian Friendly, Vegan Options",,150
+Hibox,"48 Goodge Street, London W1T 4LX England",+44 20 7580 9312,5.0,4.97 - 7.96,"Lebanese, Mediterranean, Middle Eastern, Healthy, Fast Food",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,151
+Indian Moment,"44 Battersea Rise Battersea, London SW11 1EE England",+44 20 7223 6575,4.5,,"Indian, Asian","Lunch, Dinner, Drinks, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,152
+Bruce Burgers,"93 Bruce Grove Tottenham, London N17 6UZ England",+44 20 8411 0087,5.0,7.91 - 19.78,"Fast Food, American, Grill, Jamaican",,"Vegetarian Friendly, Halal, Gluten Free Options, Vegan Options",,153
+Kinaara,"1 Waterview Drive Greenwich Peninsula, London SE10 0TW England",+44 20 8463 6913,5.0,11.87 - 39.56,Indian,Dinner,,,154
+Andromeda Restaurant,"87-88 Plender Street Camden Town Camden Town, London NW1 0JN England",+44 20 7388 4121,5.0,3.95 - 79.12,Greek,"Lunch, Dinner",,,155
+Andy's Greek Taverna,"23 Pratt Street Camden, London NW1 0BG England",+44 20 7485 9718,5.0,,"Mediterranean, European, Greek, Healthy",Dinner,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,156
+The Spice Indian Restaurant,"161 Fortess Road, London NW5 2HR England",+44 20 7267 7430,5.0,,"Indian, Asian, Balti, Bangladeshi",Dinner,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,157
+The Rajdoot Hampstead,"104 Fleet Road Hampstead, London NW3 2QX England",+44 20 7485 1329,5.0,14.93 - 39.81,"Indian, Asian, Grill",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,158
+Steak And Lobster Marble Arch,"19-25 Granville Place Radisson Blu Edwardian Sussex Hotel, London W1H 6PA England",+44 20 7666 2690,4.5,14.93 - 34.84,"Steakhouse, Seafood, European",,"Vegetarian Friendly, Gluten Free Options",,159
+Eastern Eye Balti House,"63A Brick Lane, London E1 6QL England",+44 20 7247 8643,4.5,9.95 - 29.86,"Indian, Asian, Balti, Bangladeshi",,"Vegetarian Friendly, Vegan Options, Halal",,160
+Chamisse,"55 Gray's Inn Road, London WC1X 8PP England",+44 20 7430 0799,5.0,6.97 - 24.88,"Lebanese, Mediterranean, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,161
+Bebs Kitchen,"126 Acre Lane, London SW2 5RJ England",+44 20 3659 8915,5.0,9.95 - 16.92,Indian,,"Vegetarian Friendly, Vegan Options",,162
+The Golden Chippy,"62 Greenwich High Road, London SE10 8LF England",+44 20 8692 4333,5.0,,"Seafood, British","Lunch, Dinner",,"Takeout, Outdoor Seating, Seating, Wheelchair Accessible, Serves Alcohol, Accepts Credit Cards, Table Service",163
+KöD London,"9A Devonshire Square, London EC2M 4YN England",+44 20 4586 5729,5.0,24.88 - 79.62,"Steakhouse, Grill","Lunch, Dinner, Drinks",,,164
+Govinda's Vegan & Vegetarian Restaurant,"9-10 Soho Street The restaurant is in biwin Oxford street and soho square., London W1D 3DL England",+44 20 3687 0617,4.5,,Indian,"Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,165
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,166
+Volare,"167 Bowes Road, London N11 2JA England",+44 20 3105 2662,5.0,,"Spanish, Italian, Pizza, Mediterranean","Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,167
+The Peasant,"240 St. John Street Clerkenwell, London EC1V 4PH England",+44 20 7336 7726,4.5,8.96 - 15.92,"Bar, British, Pub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,168
+The Great Chase London,"316 St.John Street Clerkenwell, London EC1V 4NT England",+44 20 3887 9768,4.5,,"British, European","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,169
+Kazan Restaurant,"93-94 Wilton Road Victoria, London SW1V 1DW England",+44 20 7233 7100,4.5,19.91 - 39.81,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,170
+Hanwoo Village Korean BBQ Restaurant,"18-19 St. Albans Place Hanwoo Village Korean bbq restaurant, London N1 0NX England",+44 20 7288 1123,4.5,,"Asian, Korean, Grill, Healthy",Lunch,,"Takeout, Outdoor Seating, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style",171
+Bon Gusto,"75-77 Buckingham Gate, London SW1E 6PD England",+44 20 7222 7185,4.5,,Italian,"Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,172
+Cappadocia Cafe & Bistro,"293 Gray's Inn Road Holborn, Kings Cross, London WC1X 8QF England",+44 20 7833 2001,4.5,,"Cafe, European, British","Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,173
+Bel Canto Restaurant,"67 Bayswater Road Corus Hotel Hyde Park, London W2 3PN England",+44 20 7262 1678,4.5,59.72 - 99.53,French,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,174
+TigerBay Shisha Lounge,"234 Kingsbury Road, London NW9 0BH England",+44 7741 656676,4.5,,"Bar, Asian, International","Lunch, Dinner, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,175
+Chez Elles Bistroquet,"45 Brick Lane, London E1 6PU England",+44 20 7247 9699,4.5,14.93 - 46.78,"Wine Bar, French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,176
+Blacklock Soho,"24 Great Windmill Street Soho, London W1D 7LG England",+44 20 3441 6996,4.5,14.93 - 29.86,"Steakhouse, Barbecue, British",,Gluten Free Options,,177
+Tia Rosa,"118 King's Cross Road, London WC1X 9DS England",+44 20 7837 5304,4.5,7.96 - 44.78,"Mediterranean, European, Portuguese, International, Grill","Lunch, Dinner, Brunch, Drinks",,,178
+Salut!,"412 Essex Road, London N1 3PJ England",+44 20 3441 8808,4.5,,"European, Contemporary, Fusion","Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,179
+Lanes of London,"140 Park Lane, London W1K 7AA England",+44 20 7647 5664,4.5,17.92 - 24.88,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,180
+Sam's Riverside,"1 Crisp Walk, London W6 9DN England",+44 20 8237 1020,4.5,,"British, European","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,181
+Bocas,"180 St. John Street, London EC1V 4JY England",+44 7474 734052,5.0,,"Argentinean, South American, Bar, Spanish, Pub, Fusion","Lunch, Dinner, Brunch, Late Night, Drinks",,"Reservations, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Table Service, Non-smoking restaurants",182
+AW Restaurant,"37 Conduit Street, London W1S 2YF England",+44 20 7629 7755,4.5,59.72 - 89.57,"European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,183
+Coda Restaurant by Eric Chavot,"Kensington Gore Royal Albert Hall, London SW7 2AP England",+44 20 7589 8212,4.5,26.87 - 64.69,,"Dinner, Drinks","Vegetarian Friendly, Vegan Options",,184
+Flat Iron Kings Cross,"47-51 Caledonian Road Kings Cross, London N1 9BU England",Website,4.5,7.91 - 19.78,"Steakhouse, British","Lunch, Dinner",,,185
+L'oro di Napoli,"6 The Quadrant Little Ealing Lane, London W5 4EE England",+44 20 3632 5580,4.5,,"Italian, Pizza, Neapolitan, Campania, Southern-Italian","Lunch, Dinner","Vegetarian Friendly, Vegan Options",,186
+Grand Cholan Indian Cuisine,"3 Turnberry Quay Pepper Street, London E14 9RD England",+44 20 7515 6888,5.0,14.93 - 21.89,"Indian, Asian",,"Vegetarian Friendly, Vegan Options",,187
+The Victoria,"10A Strathearn Place Paddington, London W2 2NH England",+44 20 7724 1191,4.5,,"Bar, British, Pub, Gastropub","Lunch, Dinner, Brunch, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,188
+Blacklock City,"13 Philpot Lane, London EC3M 8AA England",+44 20 7998 7676,4.5,14.93 - 29.86,"Steakhouse, British, Grill",,Gluten Free Options,,189
+Angus Steakhouse Leicester Square,"20 Cranbourn Street Leicester Square, London WC2H 7AD England",+44 20 7836 3782,4.0,24.53 - 49.05,"Steakhouse, British",,Gluten Free Options,,190
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,191
+Pure Indian Cooking,"67 Fulham High Street, London SW6 3JJ England",+44 20 7736 2521,4.5,34.84 - 54.74,"Asian, Indian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,192
+Gunes Restaurant,"328 Hoe Street, London E17 9PX England",+44 20 8521 6789,5.0,9.95 - 49.76,"Mediterranean, Turkish, Grill, Healthy, Middle Eastern",,Vegetarian Friendly,,193
+TOKii,"50 Great Cumberland Place Marble Arch, London W1H 7FD England",+44 20 7724 0486,4.5,4.97 - 54.74,"Japanese, Sushi, Asian, Healthy, Japanese Fusion",,"Vegetarian Friendly, Vegan Options",,194
+The Gardeners Pub,"Southfields 268 Merton Road, London SW18 5JL England",+44 20 3601 2455,4.5,3.95 - 19.78,"Bar, British, Pub",,Vegetarian Friendly,,195
+Miller & Carter,"87 Muswell Hill Broadway, London N10 3HA England",+44 20 8883 7382,4.5,14.93 - 29.86,Steakhouse,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,196
+Il Borro Tuscan Bistro London,"15 Berkeley Street, London W1J 8DY England",+44 20 3988 7717,5.0,24.88 - 74.65,"Italian, Tuscan, Pizza","Lunch, Dinner, Late Night, Drinks",,,197
+Capeesh,"4 Pan Peninsula Square Canary Wharf, London E14 9HN England",+44 20 7538 1111,4.5,4.97 - 99.53,"Italian, Pizza",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,198
+Bife,"40-42 Middlesex Street, London E1 7EX England",+44 20 7650 7948,4.5,14.93 - 29.86,"Steakhouse, Barbecue, Argentinean",,Gluten Free Options,,199
+Grand Cholan Indian Cuisine,"3 Turnberry Quay Pepper Street, London E14 9RD England",+44 20 7515 6888,5.0,14.93 - 21.89,"Indian, Asian",,"Vegetarian Friendly, Vegan Options",,200
+Hanwoo Village Korean BBQ Restaurant,"18-19 St. Albans Place Hanwoo Village Korean bbq restaurant, London N1 0NX England",+44 20 7288 1123,4.5,,"Asian, Korean, Grill, Healthy",Lunch,,"Takeout, Outdoor Seating, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style",201
+Salento,"3 Clove Crescent, London E14 2BB England",+44 20 7537 2373,4.5,,"Italian, Bar, Pizza, Mediterranean","Brunch, Breakfast, Lunch, Dinner, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,202
+Tea Darling Refreshingly Vintage,"114 Churchfield Road Acton, London W3 6BY England",+44 7825 559180,5.0,1.99 - 19.91,"British, Cafe",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,203
+Il Portico,"277 Kensington High Street, London W8 6NA England",+44 20 7602 6262,4.5,34.84 - 54.74,"Italian, Mediterranean, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,204
+Inca London,"8-9 Argyll Street, London W1F 7TF England",+44 20 7734 6066,4.0,,"South American, Japanese Fusion, Latin, Spanish, Asian","Dinner, Late Night, Drinks",,"Reservations, Private Dining, Accepts Credit Cards",205
+Augustine Kitchen,"63 Battersea Bridge Road, London SW11 3AU England",+44 20 7978 7085,4.5,9.95 - 29.86,"French, European",,"Vegetarian Friendly, Gluten Free Options",,206
+Terra Rossa St Paul's,"62 Carter lane, London EC4V5EA England",+44 20 7248 6600,4.5,24.88 - 54.74,"Italian, Pizza, Mediterranean, Street Food, Southern-Italian","Lunch, Dinner, Drinks",,,207
+CERU,"7-9 Bute Street, London SW7 3EY England",+44 20 3195 3001,4.5,11.95 - 44.78,"Israeli, Mediterranean, Healthy, Fusion",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,208
+Grand Cholan Indian Cuisine,"3 Turnberry Quay Pepper Street, London E14 9RD England",+44 20 7515 6888,5.0,14.93 - 21.89,"Indian, Asian",,"Vegetarian Friendly, Vegan Options",,209
+Pera Restaurant islington,"170 Upper Street Islington, London N1 1RG England",+44 20 7704 6888,4.5,19.91 - 29.86,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,210
+Cacciari's Asia,"21 Bute St, South Kensington, London England",07979841148,5.0,39.81 - 69.67,"Japanese, International, Sushi, Asian, Healthy","Lunch, Dinner, Drinks",,,211
+Boro Bistro,"Bank Chambers 6-10 Borough High Street Montague Close, London SE1 9QQ England",+44 20 7378 0788,4.5,,"French, Bar, European, Wine Bar","Drinks, Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,212
+Zala grill,"Camden Lock Place Unit 39, London NW1 8AL England",+44 20 3005 7453,4.5,5.97 - 15.92,"Mediterranean, Middle Eastern, Israeli",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,213
+Ciullosteria,"31 Balham High Road, London SW12 9AL England",+44 20 8675 3072,4.5,,"Italian, Pizza, Mediterranean, European","Lunch, Dinner, Late Night","Vegetarian Friendly, Gluten Free Options, Vegan Options",,214
+Ishtar,"10-12 Crawford Street, London W1U 6AZ England",+44 20 7224 2446,4.5,24.88 - 34.84,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,215
+Town House,"109-113 Queen's Gate The Kensington Hotel, South Kensington, London SW7 5LP England",+442075896300,4.5,19.91 - 59.72,"British, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,216
+The Pine,"Winchester House 259-269 Old Marylebone Road, London NW1 5RA England",+44 20 3556 9960,4.0,,"Lebanese, Mediterranean","Breakfast, Lunch, Dinner",,"Reservations, Takeout, Outdoor Seating, Seating",217
+Jolie Chelsea,"459 Kings Road Chelsea Funhouse, London SW10 0LR England",+44 20 8076 9846,4.5,19.91 - 39.81,"French, European",,"Vegetarian Friendly, Vegan Options",,218
+Bar Remo,"2 Princes Street, London W1B 2LB England",+44 20 7629 1715,4.5,,"British, Romana, Lazio, Sicilian, Central-Italian, Southern-Italian","Breakfast, Lunch, Dinner, Brunch, Drinks, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,219
+Dhaba@49,"49 Chippenham Road Maida vale, London W9 2AH England",+44 20 3489 2424,4.5,19.91 - 29.86,"Indian, Asian, Street Food",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,220
+Beck's cafe,"28 Red Lion Street, London WC1R 4PS England",+44 20 7405 8565,4.5,3.16 - 15.82,"Cafe, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,221
+TigerBay Shisha Lounge,"234 Kingsbury Road, London NW9 0BH England",+44 7741 656676,4.5,,"Bar, Asian, International","Lunch, Dinner, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,222
+Fishers Restaurant & Takeaway,"19 Fulham High Street, London SW6 3JH England",+44 20 7371 5555,4.5,,"Seafood, British","Lunch, Dinner, Brunch","Vegetarian Friendly, Gluten Free Options",,223
+Kahani,"1 Wilbraham Place, London SW1X 9AE England",+44 20 7730 7634,4.5,17.92 - 74.65,"Indian, Asian, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,224
+Cilantro,"244 Upper Richmond Road, London SW15 6TG England",+442033439317,5.0,,Indian,"Dinner, Brunch",,"Reservations, Delivery, Takeout, Seating, Street Parking, Serves Alcohol, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style, Non-smoking restaurants",225
+Little India,"32 Gloucester Road, London SW7 4RB England",+44 20 7584 3476,4.5,,Indian,"Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,226
+The George on the Strand,"213 Strand Temple, London WC2R 1AP England",+44 20 7353 9638,4.5,15.92 - 28.86,"Gastropub, Bar, European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,227
+Little Wonder Cafe,"48 Hornsey Road, London N7 7BP England",+44 20 3602 8239,4.5,,"Cafe, British","Breakfast, Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,228
+Chamuyo Bayswater,"66 Inverness Mews, London W2 3JQ England",+44 20 7727 5082,5.0,,"Steakhouse, Latin, Spanish, Argentinean, South American",Dinner,,,229
+Taste of India,"126/130 Drummond Street Euston, London NW1 2PA England",+44 20 7387 0606,4.0,17.92 - 34.84,Indian,,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,230
+Tarshish,"16-20 High Road, London N22 6BX England",+44 20 8881 6479,4.5,,"Turkish, Grill","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,231
+Plume Wine Bar,"26 Wellington Street Covent Garden, London WC2E 7DD England",+44 20 3948 4900,4.5,3.98 - 24.88,"European, Wine Bar, Contemporary",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,232
+Palms of Goa,"12 Charlotte Street Opposite to Charlotte Street Hotel, London W1T 2LU England",+44 20 7636 1668,4.5,19.91 - 29.86,"Indian, Asian, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,233
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,234
+Comptoir Libanais London Bridge,"82 Tooley Street, London SE1 2TF England",+44 20 3432 0201,4.5,9.95 - 19.91,"Lebanese, Middle Eastern",,"Vegetarian Friendly, Vegan Options",,235
+The Hoop and Grapes,"47 Aldgate High Street, London EC3N 1AL England",+44 20 7481 4583,4.5,3.98 - 11.95,"Bar, British, Pub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,236
+Iran Restaurant,"27 Shepherd Market Mayfair, London W1J 7PR England",+44 20 7409 3337,4.5,37.18 - 37.18,"Healthy, Middle Eastern, Persian",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,237
+Mountain View Restaurant Greenwich,"160 Trafalgar Road, London SE10 9TZ England",+44 20 8858 0227,4.5,,"Indian, Asian, Nepali","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,238
+Rudy's Pizza Napoletana - Soho,"80 Wardour Street Soho, London W1F 0TF England",+44 20 3930 0868,4.5,,"Pizza, Neapolitan, Campania, Southern-Italian, Italian","Lunch, Dinner, Drinks",,"Delivery, Takeout, Reservations, Seating, Serves Alcohol, Table Service, Highchairs Available, Full Bar, Wine and Beer, Digital Payments, Free Wifi, Accepts Credit Cards, Dog Friendly, Family style, Non-smoking restaurants, Gift Cards Available",239
+Sapori Cafe' and Restaurant,"60 Horseferry Road, London SW1P 2AF England",+44 20 7222 5488,4.5,,"Italian, Cafe, Mediterranean","Breakfast, Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,240
+The Bull Steak Expert,"54 Red Lion Street, London WC1R 4PD England",+44 20 7242 0708,4.5,14.93 - 49.76,"Steakhouse, Argentinean",,Gluten Free Options,,241
+Bravi Ragazzi Pizza,"2A Sunnyhill Road, London SW16 2UH England",+44 20 8769 4966,4.5,,"Italian, Pizza, Neapolitan, Campania, Southern-Italian","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options",,242
+All Bar One Butlers Wharf,"34 Shad Thames Butler's Wharf, London SE1 2YG England",+44 20 7940 9771,4.0,3.98 - 14.93,"Bar, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,243
+Kings Stores,"14 Widegate Street Spitalfields, London E1 7HP England",+44 20 7247 4089,4.5,,"Bar, British, Pub, Contemporary","Lunch, Dinner, Brunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,244
+Visconti Of Westminster,"Marsham Court Marsham Street, London SW1P 4LA England",+44 20 8191 1781,5.0,17.92 - 51.76,"Italian, Bar, Mediterranean, Pub, Central-Italian, Southern-Italian","Lunch, Dinner, Drinks",,,245
+Lorne Restaurant,"76 Wilton Road, London SW1V 1DE England",+44 20 3327 0210,4.5,29.86 - 59.72,"European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,246
+Casa Tua Camden,"176 Royal College Street, London NW1 0SP England",+44 20 8127 0460,4.5,9.95 - 24.88,"Wine Bar, Italian, Cafe, Mediterranean, Pizza",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,247
+Mosaic,"60 Upper Thames Street The Westin London City, London EC4V 3AD England",+44 20 3988 0143,5.0,19.78 - 39.56,"Healthy, International","Breakfast, Lunch, Dinner, Drinks",,,248
+Cafe Phillies,"2A Phillimore Gardens, London W8 7QB England",+44 20 7938 1890,4.5,,"Cafe, European","Breakfast, Lunch, Brunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,249
+Nepal Authentic Dining,"121 Uxbridge Road, London W12 8NL England",+44 20 8740 7551,4.5,14.93 - 21.89,"Indian, Asian, Nepali",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,250
+Baileys Fish and Chips,"115 Dawes Rd, London SW6 7DU England",+44 20 7385 2021,4.5,2.38 - 8.7,"Seafood, Fast Food, British",,Vegetarian Friendly,,251
+Namaste Holborn,"33 Boswell Street Holborn, WC1N 3BP England",+44 20 8127 1680,4.5,3.98 - 19.91,"Indian, International, Asian, Fruit parlours",,"Vegetarian Friendly, Vegan Options",,252
+New London Cafe,"216 St. Pauls Road, London N1 2LL England",+44 20 7354 7321,4.5,2.99 - 7.96,"Cafe, European, British, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,253
+The Andover Arms,"57 Aldensley Road Hammersmith, London W6 0DL England",+44 20 8748 2155,4.5,7.96 - 19.91,"Bar, British, Pub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,254
+Cilantro,"244 Upper Richmond Road, London SW15 6TG England",+442033439317,5.0,,Indian,"Dinner, Brunch",,"Reservations, Delivery, Takeout, Seating, Street Parking, Serves Alcohol, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style, Non-smoking restaurants",255
+Mosob Restaurant,"339 Harrow Road, London W9 3RB England",+44 207 289 9448,4.5,23.89 - 39.81,"African, Ethiopian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,256
+Fish Central,"149-151 Central St, London EC1V 8AP England",+44 20 7253 0229,4.5,,"Seafood, British","Lunch, Dinner, Late Night","Vegetarian Friendly, Gluten Free Options",,257
+Efes Meze,"170 Trafalgar Road, London SE10 9TZ England",+44 20 8293 0626,4.5,4.97 - 24.88,"Greek, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,258
+Don Ciccio Osteria Italiana & Pizzeria,"1A Hampstead Lane Highgate, London N6 4RS England",+44 20 8245 8100,4.5,29.86 - 49.76,"Italian, Healthy, Pizza, Seafood, Tuscan",,Vegetarian Friendly,,259
+Pizzetta Pizza,"22 Bute Street, London SW7 3EX England",+44 20 7584 9090,4.5,1.99 - 4.97,"Italian, Pizza, Fast Food",,"Vegetarian Friendly, Gluten Free Options",,260
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,261
+Riverside Cafe Lambeth Pier,"Albert Embankment Lambeth Pier, London SE1 7SG England",+44 20 7401 7575,4.5,,"Cafe, European, British","Breakfast, Lunch, Brunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,262
+Barrio Brixton,"30 Acre Lane, London SW2 5SG England",+44 20 7749 3940,4.5,5.97 - 12.94,"Mexican, Latin",,"Vegan Options, Gluten Free Options",,263
+Pizza Sophia,"50 Tavistock Place, London WC1H 9RG England",+44 20 7833 8556,4.5,,"Italian, Neapolitan, Campania, Southern-Italian","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,264
+Passyunk Avenue,"80 Cleveland Street, London W1T 6NE England",+44 20 3960 2251,4.5,10.95 - 24.88,"American, Bar",,Gluten Free Options,,265
+Inca London,"8-9 Argyll Street, London W1F 7TF England",+44 20 7734 6066,4.0,,"South American, Japanese Fusion, Latin, Spanish, Asian","Dinner, Late Night, Drinks",,"Reservations, Private Dining, Accepts Credit Cards",266
+Sarava Creperie Bar & Cafe,"41-42 Coldharbour Lane Brixton Village Market, London SE5 9NR England",+44 20 7274 2211,4.5,3.98 - 10.95,"Brazilian, Fusion",,"Vegan Options, Gluten Free Options, Vegetarian Friendly",,267
+Constancia,"52 Tanner Street, London SE1 3PH England",+44 20 7234 0676,4.5,,"Steakhouse, Barbecue, Argentinean, South American","Lunch, Dinner",Gluten Free Options,,268
+Petek,"96 Stroud Green Road, London N4 3EN England",+44 20 7619 3933,4.5,9.95 - 14.93,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,269
+Aprés Food Co.,"72 St. John Street, London EC1M 4DT England",+44 20 7686 8888,4.5,4.97 - 17.92,"European, British, Healthy, Cafe",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,270
+Railway Bell,"87 George Lane South Woodford, London E18 1JJ England",+44 20 8989 0229,4.5,,"Bar, British, Pub","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,271
+Clarette,"44 Blandford Street, London W1U 7HS England",+44 20 3019 7750,4.5,,"French, Wine Bar, European","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,272
+Flat Iron Shoreditch,"77 Curtain Road, London EC2A 3BS England",Website,4.5,9.95 - 24.88,"Steakhouse, British",,Gluten Free Options,,273
+Roux At The Landau,"1C Portland Place, London W1B 1JA England",+44 20 7965 0165,4.5,34.84 - 99.53,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,274
+The India - Best of the City,"Cannon Street 21 College Hill, London EC4R 2RP England",+44 20 7248 5855,5.0,9.95 - 29.86,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,275
+Flat Iron Covent Garden,"17/18 Henrietta Street, London WC2E 8QH England",+44 20 3019 4212,4.5,7.91 - 19.78,"Steakhouse, European, British",,Gluten Free Options,,276
+Paramount Lebanese Kitchen,"26 London Street, London W2 1HH England",+44 20 7262 1111,4.5,,"Lebanese, Mediterranean, Healthy, Middle Eastern","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,277
+Kirvem,"663 Commercial Road, London E14 7LW England",+44 20 7001 1001,4.5,,"Mediterranean, European, Turkish, Middle Eastern","Breakfast, Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,278
+Tigerbay Hanger Lane,"11 Royal Parade, London W5 1ET England",+44 20 3962 7600,4.5,2.99 - 19.91,"Lebanese, International, Mediterranean, Grill, Middle Eastern",,"Halal, Vegetarian Friendly",,279
+Masala,"88 Brick Lane, London E1 6RL England",+44 20 7539 9448,4.0,14.93 - 24.88,Indian,,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,280
+Chettinad Restaurant,"16 Percy Street Soho, London W1T 1DT England",+44 20 3556 1229,4.5,4.97 - 34.84,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,281
+108 Brasserie,"108 Marylebone Lane, London W1U 2QE England",+442079693900,4.5,19.91 - 39.81,"European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,282
+Sheila's Cafe,"24A Craven Terrace Lancester Gate, London W2 3QH England",+44 20 7402 8065,4.5,,"Cafe, British","Breakfast, Lunch, Brunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,283
+The Marquis,"51-52 Chandos Place, London WC2N 4HS England",+44 20 7379 0367,4.5,4.97 - 13.93,"Bar, British, Pub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,284
+The Wilmington,"69 Rosebery Avenue Clerkenwell, London EC1R 4RL England",+44 20 7837 1384,4.5,7.96 - 21.89,"Bar, British, Pub, Gastropub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,285
+Chimichurris,"132 Southwark Bridge Road, London SE1 0DG England",+44 20 7928 7414,5.0,13.93 - 33.84,"Steakhouse, Barbecue, Argentinean, Grill",,"Vegetarian Friendly, Gluten Free Options",,286
+Flora Indica,"242 Old Brompton Road Earl's Court, London SW5 0DE England",+44 20 7370 4450,4.5,24.88 - 39.81,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,287
+Cord by Le Cordon Bleu,"85 Fleet Street, London EC4Y 1AE England",+44 20 3143 6365,4.0,25.31 - 72.79,"French, International, European","Lunch, Dinner, Drinks",,,288
+Portobello Garden Caffe,"Notting Hill 269B Portobello Road, London W11 1LR England",+44 20 7792 8419,4.5,,"Italian, Mediterranean, Sicilian, Southern-Italian","Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,289
+STK Steakhouse Westminster,"30 John Islip Street The Westminster London, Curio Collection by Hilton, London SW1P 4DD England",+44 20 7233 7575,4.5,19.91 - 199.05,"Steakhouse, Seafood","Dinner, Lunch, Drinks",,,290
+La Trompette,"3-7 Devonshire Road, London W4 2EU England",+44 20 8747 1836,4.5,23.89 - 48.77,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,291
+Omnino Leadenhall,"78-79 Leadenhall Street, London EC3A 3DH England",+44 20 7283 3926,4.5,17.92 - 44.78,"Steakhouse, Grill, Argentinean",,Gluten Free Options,,292
+Tigerbay Hanger Lane,"11 Royal Parade, London W5 1ET England",+44 20 3962 7600,4.5,2.99 - 19.91,"Lebanese, International, Mediterranean, Grill, Middle Eastern",,"Halal, Vegetarian Friendly",,293
+Flat Iron,"17 Beak Street Soho, London W1F 9RW England",Website,4.5,9.95 - 19.91,"Steakhouse, British",,Gluten Free Options,,294
+Sunday Champagne Brunch at The Landmark London,"222 Marylebone Road The Landmark London, London NW1 6JQ England",+44 20 7631 8188,4.5,,"European, British","Breakfast, Lunch, Brunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,295
+Nenno Pizza Restaurant,"14-16 Caledonian Road, London N1 9DU England",+44 20 7833 2790,4.5,14.93 - 29.86,"Italian, Pizza, European, Mediterranean",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,296
+La Dame de Pic London,"10 Trinity Square Four Seasons Hotel London at Ten Trinity Square, London EC3N 4AJ England",+44 20 3297 3799,4.5,,"French, European","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,297
+The Clerk and Well,"156 Clerkenwell Road, London EC1R 5DU England",+44 20 7837 8548,4.5,,"Bar, Pub","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,298
+Pane Cunzato - Pizza & more,"49 Museum Street, London WC1A 1LY England",+44 20 3581 1747,4.5,9.95 - 14.93,"Italian, Pizza, Mediterranean, European, Sicilian, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,299
+Kitty Fisher's,"10 Shepherd Market, London W1J 7QF England",+44 20 3302 1661,4.5,,"European, British","Lunch, Dinner","Vegetarian Friendly, Gluten Free Options",,300
+Visconti Of Westminster,"Marsham Court Marsham Street, London SW1P 4LA England",+44 20 8191 1781,5.0,17.92 - 51.76,"Italian, Bar, Mediterranean, Pub, Central-Italian, Southern-Italian","Lunch, Dinner, Drinks",,,301
+Nonna Selena Pizzeria,"18 Woburn Place, London WC1H 0LN England",+44 20 7837 4748,4.5,,"Italian, Pizza, Neapolitan, Campania, Southern-Italian, European","Lunch, Dinner","Vegetarian Friendly, Vegan Options",,302
+Roxie Steak - Earlsfield,"585 Garratt Lane Earlsfield, London SW18 4ST England",+44 20 8944 9602,4.5,,"Barbecue, Steakhouse","Lunch, Dinner, Late Night",Gluten Free Options,,303
+Portland Restaurant,"113 Great Portland Street, London W1W 6QQ England",+44 20 7436 3261,4.5,,"European, British","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,304
+Twist Connubio,"42 Crawford Street, London W1H 1JW England",+44 20 7723 3377,4.5,29.86 - 64.69,"Mediterranean, European, Spanish, Fusion",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,305
+Roxie Steak - Fulham,"803 Fulham Road Fulham, London SW6 5HE England",+44 20 7371 5785,4.5,24.53 - 37.18,"Barbecue, Steakhouse",,Gluten Free Options,,306
+All Bar One Wimbledon,"37-39 Wimbledon Hill Road, London SW19 7NA England",+44 20 8946 9072,4.5,0.02 - 0.04,"Bar, British, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,307
+Alexandrie Restaurant,"38C Kensington Church Street, London W8 4BX England",+44 20 7937 2244,4.5,5.97 - 36.82,"Mediterranean, Middle Eastern, Egyptian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,308
+Cibo,"3 Russell Gardens, London W14 8EZ England",+44 20 7371 2085,4.5,,Italian,"Lunch, Dinner","Vegetarian Friendly, Gluten Free Options",,309
+Flat Iron London Bridge,"112-116 Tooley Street, London SE1 2TH England",Website,4.5,9.95 - 24.88,"Steakhouse, British",,Gluten Free Options,,310
+Sambuca Trafalgar Square,"3 Northumberland Avenue Trafalgar Square, London WC2N 5BW England",+44 20 3411 6858,4.5,,"Italian, Steakhouse, Bar, Pub","Lunch, Dinner",,"Takeout, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Wine and Beer, Accepts Mastercard, Accepts Visa, Accepts Discover, Accepts Credit Cards, Table Service, Family style, Non-smoking restaurants",311
+St. Ermin's Tea Lounge,"2 Caxton Street St. Ermin's Hotel - Autograph Collection, London SW1H 0QW England",+44 20 7222 7888,4.5,29.86 - 44.78,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,312
+Panas Gurkha Restaurant,"318 Lee High Road Lewisham, London SE13 5PJ England",+44 20 8852 9891,4.5,6.97 - 24.88,"Indian, Asian, Nepali",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,313
+Kua 'Aina,"26 Fouberts Place, London W1F 7PP England",+44 20 7287 7474,4.5,7.96 - 14.93,"American, Bar, Hawaiian, Grill",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,314
+Liz Cafe,"7 Goldhawk Road, London W12 8QQ England",+44 7984 660358,4.5,,"Cafe, British","Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,315
+Bocas,"180 St. John Street, London EC1V 4JY England",+44 7474 734052,5.0,,"Argentinean, South American, Bar, Spanish, Pub, Fusion","Lunch, Dinner, Brunch, Late Night, Drinks",,"Reservations, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Table Service, Non-smoking restaurants",316
+Honest Burgers Warren Street,"Warren St 117 Tottenham Court Road, London W1T 5AL England",+44 20 3597 6277,4.5,7.96 - 9.95,"Fast Food, American, British",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,317
+Misto,"7 Shepherd Market Mayfair, London W1J 7PE England",+44 20 7629 3317,4.5,,"Italian, Pizza, Mediterranean, European","Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,318
+RAPSA,"100-104 Hoxton Street, London N1 6SG England",+44 20 7729 1444,4.5,4.97 - 49.76,"Filipino, Asian, Vietnamese, Healthy",,"Vegetarian Friendly, Gluten Free Options",,319
+Turmeric Kitchen London Paddington,"55 Westbourne Terrace, London W2 3UY England",+44 20 4542 4565,4.5,14.24 - 22.15,"Indian, European","Lunch, Dinner, Drinks",,,320
+Clipstone,"Bolsover House 5 Clipstone Street, London W1W 6BB England",+44 20 7637 0871,4.5,24.88 - 49.76,"European, British",,"Vegetarian Friendly, Gluten Free Options, Vegan Options",,321
+Bar Soho,"23-25 Old Compton Street, London W1D 5JL England",+44 20 7439 0439,4.0,,Bar,"Late Night, Drinks",,"Reservations, Seating, Serves Alcohol, Full Bar, Accepts Credit Cards",322
+Browns Victoria,"2 Cardinal Walk Victoria, Cardinal Place, London SW1E 5JE England",+44 20 7821 1450,4.0,11.95 - 29.86,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,323
+VICINITY,"St. Katharines Way Tower Hotel, London E1W 1LD England",+44 20 7206 7562,4.0,11.95 - 29.86,"European, British, International",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,324
+imm Thai Fusion Wimbledon,"162 The Broadway, London SW19 1RX England",+44 20 8545 0021,4.5,14.93 - 49.76,"Asian, Thai, Vietnamese, Street Food",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,325
+Honest Burgers - Camden,"Unit 34A Camden Lock Place Camden Lock Place, London NW1 8AF England",+44 20 3597 6259,4.5,7.96 - 9.95,"Fast Food, British",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,326
+Terry's Cafe London,"158 Great Suffolk Street, London SE1 1PE England",+44 20 7407 9358,4.5,4.97 - 14.93,"Cafe, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,327
+Turmeric Kitchen London Paddington,"55 Westbourne Terrace, London W2 3UY England",+44 20 4542 4565,4.5,14.24 - 22.15,"Indian, European","Lunch, Dinner, Drinks",,,328
+Honest Burgers Portobello,"189 Portobello Road, London W11 2ED England",+44 20 8154 2095,4.5,7.96 - 12.94,Fast Food,,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,329
+Aphrodite Taverna,"15 Hereford Road, London W2 4AB England",+44 20 7229 2206,4.5,,"Mediterranean, Greek","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,330
+Mumbai Delight,"51A South Lambeth Road Vauxhall, London SW8 1RH England",+44 20 7091 0043,4.5,,"Indian, Asian","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,331
+Goodman Mayfair,"24-26 Maddox Street, London W1S 1QH England",+44 20 7499 3776,4.5,39.81 - 39.81,American,,Gluten Free Options,,332
+Bustronome,"Coach Bay 40B, Victoria Embankment, London WC2N 6PB England",+44 20 3744 5554,5.0,64.69 - 149.29,"French, European, Contemporary, Fusion",,Vegetarian Friendly,,333
+Honest Burgers - Borough,"5-7 Southwark Street, London SE1 1RQ England",+44 20 3096 9485,4.5,7.96 - 9.95,"American, British",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,334
+Lost Souls Pizza Camden,"245 Eversholt Street, London NW1 1BA England",+44 20 7388 2101,5.0,4.97 - 10.95,Pizza,,"Vegetarian Friendly, Vegan Options",,335
+The Schoolhouse,"137-139 St. John's Hill, London SW11 1TD England",+44 20 7223 6288,4.5,,"Bar, British, European","Breakfast, Lunch, Dinner, Brunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,336
+Colonel Saab,"193-197 High Holborn, London Holborn Town Hall, London WC1V 7BD England",+44 20 8016 6800,4.5,34.84 - 59.72,"Indian, International, Contemporary","Lunch, Dinner, Late Night, Drinks",,,337
+The Plume of Feathers,"19 Park Vista Greenwich, London SE10 9LZ England",+44 20 8858 1661,4.5,,"Bar, British, Pub, Gastropub","Lunch, Dinner, Brunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,338
+La Piccola Deli Pasticceria,"270 Kensington High Street, London W8 6ND England",+44 20 7371 6003,4.5,1.99 - 29.86,"Cafe, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,339
+Gola Restaurant,"787 Fulham Road Cucina Pugliese, London SW6 5HD England",+44 20 7751 0141,4.5,,"Italian, Pizza, Contemporary","Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,340
+Popolo Shoreditch,"26 Rivington Street, London EC2A 3DU England",+44 20 7729 4299,4.5,,"Italian, Mediterranean",Dinner,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,341
+Kashmir A Culinary Paradise,"18 Lacy Road Putney, London SW15 1NL England",+44 7477 533888,4.5,39.81 - 49.76,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,342
+Tigerbay Hanger Lane,"11 Royal Parade, London W5 1ET England",+44 20 3962 7600,4.5,2.99 - 19.91,"Lebanese, International, Mediterranean, Grill, Middle Eastern",,"Halal, Vegetarian Friendly",,343
+Bella Vita,"53-57 Broadway Market, London E8 4PH England",+44 20 7249 4772,4.5,6.33 - 18.99,"Italian, Pizza, Mediterranean, European, Tuscan, Romana, Lazio, Sicilian, Sardinian, Central-Italian, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,344
+El Inca Plebeyo,"162 Essex Road, London N1 8LY England",+44 20 7704 9393,4.5,9.95 - 49.76,"Latin, Healthy, South American, Ecuadorean, Fusion",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,345
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,346
+The Ninth,"22 Charlotte Street, London W1T 2NB England",+44 20 3019 0880,4.5,16.92 - 64.69,"French, Mediterranean, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,347
+Kamasutra Indian Restaurant,"2 Holcombe Street, London W6 9JR England",+44 20 8748 5000,5.0,14.93 - 24.88,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,348
+Grand Cholan Indian Cuisine,"3 Turnberry Quay Pepper Street, London E14 9RD England",+44 20 7515 6888,5.0,14.93 - 21.89,"Indian, Asian",,"Vegetarian Friendly, Vegan Options",,349
+280 Degrees African Restaurant & Bar,"280 Kilburn High Road, London NW6 2BY England",+44 20 7328 8832,4.0,9.95 - 24.88,"African, Bar, Seafood, Pub, Soups, Nigerian","Lunch, Dinner, Late Night, Drinks",,,350
+Silka,"6 - 8 Southwark Street Borough Market, London SE1 1TQ England",+44 20 7378 6161,4.5,11.95 - 34.84,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,351
+The Rosebery,"66 Knightsbridge, London SW1X 7LA England",+44 20 7201 3828,4.5,,"European, British","Breakfast, Lunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,352
+Amerigo Vespucci,"25 Cabot Sq, London E14 4Q4 England",+44 20 7513 0288,4.5,14.93 - 24.88,"Italian, Mediterranean, European, Sicilian, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,353
+The Clachan,"34 Kingly Street, London W1B 5QH England",+44 20 7494 0834,4.0,3.98 - 19.91,"Bar, British, Pub",,Vegetarian Friendly,,354
+Hélène Darroze at The Connaught,"16 Carlos Place Mayfair, London W1K 2AL England",+44 20 3147 7200,4.5,74.65 - 174.17,French,,Gluten Free Options,,355
+The Gardeners Pub,"Southfields 268 Merton Road, London SW18 5JL England",+44 20 3601 2455,4.5,3.95 - 19.78,"Bar, British, Pub",,Vegetarian Friendly,,356
+Meraz,"56 Hanbury Street, London E1 5JL England",+44 20 7247 6999,4.5,10.28 - 18.99,"Indian, Asian, Bangladeshi",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,357
+Rodfai Thai street food,"322 Uxbridge Road, London W3 9QP England",+44 20 8993 6363,5.0,7.96 - 29.86,"Asian, Thai",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,358
+Colonel Saab,"193-197 High Holborn, London Holborn Town Hall, London WC1V 7BD England",+44 20 8016 6800,4.5,34.84 - 59.72,"Indian, International, Contemporary","Lunch, Dinner, Late Night, Drinks",,,359
+Indian Zing,"236 King Street Hammersmith, London W6 0RF England",+44 20 8748 5959,4.5,19.91 - 49.76,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,360
+The London Gin Club,"22 Great Chapel Street, London W1F 8FR England",+44 20 7223 5200,4.5,7.96 - 9.95,Bar,"Late Night, Drinks",,,361
+Odette's Restaurant,"130 Regents Park Road Primrose Hill, London NW1 8XL England",+44 20 7586 8569,4.5,20.57 - 49.05,"European, British, Welsh",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,362
+The Monkey Puzzle,"30 Southwick Street, London W2 1JQ England",+44 20 7723 0143,4.5,,"Bar, British, Pub","Lunch, Dinner, Brunch, Late Night, Drinks","Vegetarian Friendly, Gluten Free Options",,363
+Bella Italia,"10 Irving Street Charing Cross, London WC2H 7AT England",+44 20 3004 4193,4.0,6.97 - 15.92,"Italian, Pizza",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,364
+Oslo Court,"Charlbert St, London NW8 7EN England",+44 20 7722 8795,4.5,,"European, British","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,365
+The Grill at The Dorchester,"53 Park Lane The Dorchester Hotel, London W1K 1QA England",+44 20 7629 8888,4.5,,"European, British, Grill","Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,366
+The Hampshire,"225-227 King Street Hammersmith, London W6 9JT England",+44 20 8748 3391,5.0,9.95 - 49.76,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,367
+Chez Antoinette,"The Piazza Lower floor, London WC2E 8RE England",+44 20 7240 9072,4.5,3.98 - 11.95,"French, European, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,368
+Peter's Cafe,"73 Aldgate High Street Tower, London EC3N 1BD England",+44 20 7481 9937,4.5,,Cafe,"Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options",,369
+Cora Pearl Restaurant,"30 Henrietta Street Covent Garden, London WC2E 8NA England",+44 20 7324 7722,4.5,,"European, British","Lunch, Dinner","Vegetarian Friendly, Gluten Free Options",,370
+Chimichurris,"132 Southwark Bridge Road, London SE1 0DG England",+44 20 7928 7414,5.0,13.93 - 33.84,"Steakhouse, Barbecue, Argentinean, Grill",,"Vegetarian Friendly, Gluten Free Options",,371
+Lobby Bar at One Aldwych,"1 Aldwych One Aldwych Hotel, London WC2B 4BZ England",+44 20 7300 1070,4.5,,"British, Bar, Wine Bar","Breakfast, Lunch, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,372
+Bizzarro,"18-22 Craven Road, London W2 3PX England",+44 20 7723 6029,4.5,,"Italian, Pizza, Mediterranean, European, Neapolitan, Campania, Romana, Lazio, Central-Italian, Southern-Italian","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,373
+Steak and Company Covent Garden,"4-6 Garrick Street Covent Garden, London WC2E 9BH England",+44 20 7379 0412,4.5,,"Steakhouse, British","Lunch, Dinner, Late Night",Gluten Free Options,,374
+Arro Coffee - Bayswater,"77 Bishops Bridge Road Notting Hill, London W2 6BG England",+44 20 7221 4600,4.5,2.99 - 14.93,"Italian, Cafe",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,375
+Restaurant Story,"199 Tooley Street, London SE1 2JX England",+44 20 7183 2117,4.5,,"European, British","Lunch, Dinner, Late Night","Vegetarian Friendly, Gluten Free Options",,376
+Masala,"88 Brick Lane, London E1 6RL England",+44 20 7539 9448,4.0,14.93 - 24.88,Indian,,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,377
+Beirut Nights,"19 Abbey Road, London NW10 7RB England",+44 20 8961 2101,4.5,7.96 - 19.91,"Lebanese, Mediterranean, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal",,378
+The Empress,"141 Leman Street, London E1 8EY England",+44 20 7265 0745,4.5,9.95 - 19.91,"Indian, Asian, Balti, Bangladeshi",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,379
+The Hampshire,"225-227 King Street Hammersmith, London W6 9JT England",+44 20 8748 3391,5.0,9.95 - 49.76,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,380
+All Bar One Holborn,"58 Kingsway, London WC2B 6DX England",+44 20 7269 5171,4.0,4.97 - 16.92,"Bar, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,381
+Los Molinos,"Brook Green 127 Shepherds Bush Road, London W6 7LP England",+44 20 7603 2229,4.5,32.44 - 32.44,"Mediterranean, European, Spanish",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,382
+Honest Burgers Baker St,"31 Paddington Street, London W1U 4HD England",+44 20 3019 6566,4.5,8.96 - 14.93,"British, American",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,383
+The Blue Door Bistro,"15 Montague Street Bloomsbury, London WC1B 5BJ England",+442076371001,4.5,34.84 - 59.72,"British, Soups, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,384
+Kings Chinese Takeaway,"119 Junction Road, London N19 5PX England",+44 20 7272 1138,3.0,,"Chinese, Asian, Street Food",Dinner,Vegetarian Friendly,,385
+Babur Restaurant,"119 Brockley Rise Forest Hill, London SE23 1JP England",+44 20 8291 2400,4.5,14.93 - 31.85,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,386
+Prince Alfred & Formosa Dining Room,"5A Formosa Street, London W9 1EE England",+44 20 7286 3287,4.0,9.95 - 21.89,Contemporary,,Vegetarian Friendly,,387
+Marcus,"Knightsbridge Wilton Place, London SW1X 7RL England",+44 20 7235 1200,4.5,59.72 - 184.12,"European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,388
+Mildreds King's Cross,"200 Pentonville Road, London N1 9JP England",+44 20 7278 9422,4.5,,"British, Healthy, International","Lunch, Dinner, Brunch, Drinks","Vegan Options, Vegetarian Friendly, Gluten Free Options",,389
+TigerBay Shisha Lounge,"234 Kingsbury Road, London NW9 0BH England",+44 7741 656676,4.5,,"Bar, Asian, International","Lunch, Dinner, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,390
+NOPI - Downstairs,"21-22 Warwick Street, London W1B 5NE England",+44 20 7494 9584,4.5,32.44 - 59.33,Mediterranean,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,391
+Zoilo,"9 Duke Street, London W1U 3AZ England",+44 20 7486 9699,4.5,,"Argentinean, South American","Lunch, Dinner","Vegetarian Friendly, Gluten Free Options",,392
+The Queens Head Piccadilly,"15 Denman Street Piccadilly, London W1D 7HN England",+44 20 7437 1540,4.5,8.96 - 15.92,"Bar, British, Pub",,"Vegetarian Friendly, Gluten Free Options",,393
+Dans Le Noir ?,"69-73 St. John Street 69-73 St John Street, London EC1M 4AN England",+44 20 7253 1100,4.0,47.77 - 99.53,"International, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,394
+Hanwoo Village Korean BBQ Restaurant,"18-19 St. Albans Place Hanwoo Village Korean bbq restaurant, London N1 0NX England",+44 20 7288 1123,4.5,,"Asian, Korean, Grill, Healthy",Lunch,,"Takeout, Outdoor Seating, Private Dining, Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style",395
+Ponti's Italian Kitchen - John Princes Street,"5-7 John Princes Street Oxford Circus, London W1G 0JN England",+44 20 3230 3018,4.5,9.95 - 27.87,"Italian, Pizza, European, Wine Bar",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,396
+Bob’s Cafe Queens Park,"77 Salusbury Road, London NW6 6NH England",+44 20 7372 3442,4.5,4.97 - 39.81,British,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,397
+Honest Burgers - Brixton,"12 First Avenue Brixton Village, London SW9 8PR England",+44 20 3148 2970,4.5,7.96 - 9.95,"Fast Food, American, British",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,398
+The Port House,"417 Strand, London WC2R 0PD England",+44 20 7836 7764,4.5,,"Mediterranean, European, Spanish, Wine Bar, Catalan","Lunch, Dinner, Brunch, Late Night, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,399
+La Fortuna Italian Restaurant,"32 Kensington Church Street, London W8 4HA England",+44 20 7937 8752,4.5,19.91 - 39.81,"Italian, European, Pizza, Mediterranean, Northern-Italian",,"Vegetarian Friendly, Vegan Options",,400
+Half Cup,"100-102 Judd Street, London WC1H 9NT England",+44 20 8617 7835,4.5,4.97 - 14.93,"Italian, British, Deli, Cafe, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,401
+Thali & Pickles Indian Dining,"5-6 Balham Station Road Balham, London SW12 9SG England",+44 20 8673 3773,4.5,14.93 - 24.88,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,402
+Potli-An Indian Market Kitchen,"319-321 King Street Hammersmith, London W6 9NH England",+44 20 8741 4328,4.5,29.86 - 34.84,Indian,,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,403
+Macellaio RC South Kensington,"84 Old Brompton Road, London SW7 3LQ England",+44 20 7589 5834,4.5,29.86 - 49.76,"Steakhouse, Mediterranean, Italian, Healthy",,Gluten Free Options,,404
+The Game Bird,"16-18 St. James's Place The Stafford London, London SW1A 1NJ England",+44 20 7493 0111,4.5,,"European, British","Breakfast, Lunch, Dinner, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,405
+Blighty Cafe (Finsbury Park),"35-37 Blackstock Road, London N4 2JF England",+44 7974 979340,4.5,3.95 - 9.49,"Cafe, British, Healthy",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,406
+Coal Office Restaurant,"2 Bagley Walk, London N1C 4PQ England",+44 20 3848 6086,4.5,25.88 - 39.81,"Mediterranean, Middle Eastern, Israeli",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,407
+Leila Moroccan and Lebanese Restaurant,"5 Grosvenor Parade, Uxbridge Road, London W5 3NN England",+44 20 8993 2782,4.5,14.93 - 49.76,"Lebanese, Moroccan, Mediterranean, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,408
+Hankies Cafe,"67 Shaftesbury Avenue Piccadilly, London W1D 6LL England",+44 20 7871 6021,4.5,9.95 - 14.93,Indian,,"Vegetarian Friendly, Vegan Options, Halal",,409
+Pied à Terre,"34 Charlotte Street Fitzrovia, London W1T 2NH England",+44 20 7636 1178,4.5,34.84 - 144.31,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,410
+The Hawley Arms,"2 Castlehaven Road, London NW1 8QU England",+44 20 7428 5979,4.5,,"Bar, European, British, Pub","Lunch, Dinner, Brunch, Late Night, Drinks",Vegetarian Friendly,,411
+La Divina Italian Restaurant,"134 Upper Street Islington, London N1 1QP England",+44 20 8616 4149,4.5,19.91 - 39.81,"Italian, Pizza, Sicilian, Tuscan, Romana, Lazio, Central-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,412
+Brasserie Blanc Southbank,"Whitehouse Apartments 9 Belvedere Road King's College London Waterloo Campus, London SE1 8YP England",+44 20 7202 8470,4.0,10.95 - 59.72,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,413
+Imad's Syrian Kitchen,"27 Carnaby Street 2.14 Top Floor, Kingly Court,, London W1B 5PW England",+44 20 7434 2448,4.5,,Middle Eastern,"Dinner, Lunch, Brunch",,"Reservations, Seating, Accepts Credit Cards, Table Service, Free Wifi, Family style",414
+Nusr-Et Steakhouse London,"101 Knightsbridge, London SW1X 7EZ England",+44 1821 687738,3.0,,Steakhouse,"Lunch, Dinner, Drinks",,"Reservations, Outdoor Seating, Wheelchair Accessible, Serves Alcohol, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Discover, Accepts Credit Cards, Table Service, Family style",415
+The Promenade at The Dorchester,"53 Park Lane The Dorchester, London W1K 1QA England",+44 20 7629 8888,4.5,,"British, International","Breakfast, Lunch, Dinner, Brunch, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,416
+The London Cabaret Club,"Victoria House 5 Bloomsbury Square 0.2 Miles from The British Museum, London WC1A 2TA England",+44 20 7242 0002,4.0,49.76 - 164.22,"British, Contemporary, International, Grill","Dinner, Drinks",,,417
+Gordon Ramsay Street Pizza - St Paul's,"10 Bread Street, London EC4M 9AJ England",+44 20 7499 0120,4.5,11.95 - 24.88,"Bar, Pizza, Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,418
+Gauthier Soho,"21 Romilly Street, London W1D 5AF England",+44 20 7494 3111,4.5,30.07 - 121.84,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,419
+Orrery,"55 Marylebone High Street, London W1U 5RB England",+44 20 7616 8000,4.5,25.88 - 48.77,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,420
+Companero,"32 Dalston Lane Dalston, London E8 3AU England",+44 7894 433754,5.0,1.99 - 9.95,"Mediterranean, European, Spanish",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,421
+Hispania London,"72-74 Lombard Street, London EC3V 9AY England",+44 20 7621 0338,4.5,,"Mediterranean, European, Spanish","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,422
+Stone Cave Cafe Bar & Restaurant,"111 Kingsland High Street Dalston, London E8 2PB England",+44 20 7241 4911,4.5,9.95 - 20.9,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,423
+Falafel Feast,"377 Regents Park Road opp Station Rd, by Finchley Central Station, London N3 1DE England",+44 20 8346 3361,5.0,,"Cafe, Mediterranean, Middle Eastern, Israeli","Breakfast, Lunch, Brunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,424
+Salsa Temple,"Temple Station Temple Place Embankment, London WC2R 2PH England",+44 20 7395 3690,4.5,4.97 - 19.91,"Mexican, Latin, Bar",,Vegetarian Friendly,,425
+Sheba,"136 Brick Lane, London E1 6RU England",+44 20 7247 7824,4.0,11.95 - 29.86,"Indian, Asian, Bangladeshi",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,426
+Honest Burgers South Bank,"9 Festival Terrace, London SE1 8XX England",+44 20 3146 6379,4.5,4.97 - 14.93,"Cafe, Fast Food",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,427
+Naughty piglets,"28 Brixton Water Lane, London SW2 1PE England",+44 20 7274 7796,4.5,,European,"Lunch, Dinner","Vegetarian Friendly, Gluten Free Options",,428
+The Bell & Crown,"11-13 Thames Road Chiswick, London W4 3PL England",+44 20 8994 4164,4.5,8.96 - 29.86,"Bar, British, Pub, Gastropub",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,429
+Shahi Pakwaan,"25 Aylmer Parade, Aylmer Road,East Finchely, London N2 0PE England",+44 20 8341 1111,4.5,19.91 - 34.84,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,430
+Iro Sushi,"85 Lillie Road, London SW6 1UD England",+44 20 3643 5217,4.5,14.93 - 99.53,"Japanese, Sushi, Asian, Seafood, Korean","Lunch, Dinner, Brunch, Late Night, Drinks",,,431
+Tozi Restaurant & Bar,"8 Gillingham Street, London SW1V 1HJ England",+44 20 7769 9771,4.5,19.91 - 34.84,"Italian, Mediterranean, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,432
+Bella Italia,"28 Wellington Street, London WC2E 7PS England",+44 20 3002 9456,4.0,6.97 - 15.92,Italian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,433
+Honest Burgers Waterloo,"39 The Cut, Waterloo, London SE1 8LF England",+44 20 3597 6266,4.5,7.96 - 19.91,"Bar, British, Diner",,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,434
+Bella Italia,"Unit 30 Gallions Reach Shopping Park 3 Armada Way Gallions Reach Retail Park, Beckton, London E6 7ER England",+44 20 3004 6684,4.5,2.99 - 12.94,"Italian, Grill",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,435
+Emilia's Crafted Pasta (St. Katharine Docks),"Unit C3 Ivory House, St Katharine Docks, East Smithfield, London E1W 1AT England",+44 20 7481 2004,4.5,2.99 - 9.95,Italian,,"Vegetarian Friendly, Vegan Options",,436
+Orjowan,"6 Kenway Road Earls Court, London SW5 0RR England",+44 20 7370 3074,4.5,,"Lebanese, Mediterranean, Healthy, Middle Eastern","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,437
+German Doner Kebab - London - Holloway Road,"Naggs Head Shopping Centre, Holloway Road, London N7 6PZ England",+44 20 3989 6461,5.0,,"German, European, Grill, Fusion, Healthy","Lunch, Dinner",,,438
+Inca London,"8-9 Argyll Street, London W1F 7TF England",+44 20 7734 6066,4.0,,"South American, Japanese Fusion, Latin, Spanish, Asian","Dinner, Late Night, Drinks",,"Reservations, Private Dining, Accepts Credit Cards",439
+Benihana Covent Garden,"31/32 Maiden Lane, London WC2E 7JS England",+44 20 7494 2525,4.5,,Steakhouse,"Lunch, Dinner",,,440
+Thai West Cafe,"87 Brewer Street Soho, London W1F 9UX England",+44 20 7734 6742,4.5,5.97 - 7.96,Thai,,"Vegetarian Friendly, Vegan Options",,441
+Sugar Cane bar,"247-249 Lavender Hill, London SW11 1JW England",+44 20 7223 8866,4.5,,"Bar, International","Drinks, Dinner, Breakfast",,"Serves Alcohol, Reservations, Seating, Full Bar, Free Wifi, Accepts Credit Cards, Table Service",442
+North Sea Fish Restaurant,"7-8 Leigh Street, London WC1H 9EW England",+44 20 7387 5892,4.5,9.95 - 29.86,"Seafood, British",,"Vegetarian Friendly, Gluten Free Options",,443
+The Avocado Show - London Princes Street,"6 Princes Street, London W1B 2LG England",+44 7594 561103,4.5,17.92 - 24.88,"International, European, Contemporary, Healthy",,"Vegetarian Friendly, Vegan Options",,444
+Oka Restaurant,"16 Carnaby Street 1st Floor Kingly Court, London W1B 5PW England",+44 20 7734 3556,4.5,,"Japanese, Sushi, Asian","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,445
+Humble Grape Liverpool Street,"8 Devonshire Row off Bishopsgate, London EC2M 4RH England",+44 20 3887 9287,5.0,9.95 - 39.81,"European, Wine Bar",,"Vegetarian Friendly, Gluten Free Options",,446
+Honest Burgers - Oxford Circus,"4 Market Place Oxford Circus, London W1W 8AD England",+44 20 3675 0940,4.5,7.96 - 9.95,British,,"Vegan Options, Vegetarian Friendly, Gluten Free Options",,447
+Khamsa,"140 Acre Lane, London SW2 5UT England",+44 20 7733 3150,4.5,,Algerian,Dinner,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,448
+Al Basha Restaurant,"48 Knightsbridge, London SW1X 7JN England",+44 20 7245 6000,4.5,8.96 - 34.84,Middle Eastern,,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,449
+Vasco & Piero's Pavilion Restaurant,"11 D’Arblay Street, London W1F 8DT England",+44 20 7437 8774,4.5,15.82 - 47.47,"Mediterranean, European, Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,450
+Sinabro Restaurant,"28 Battersea Rise, London SW11 1EE England",+44 20 3302 3120,4.5,41.8 - 41.8,"French, European",,"Vegetarian Friendly, Gluten Free Options",,451
+The Greenhouse,"27A Hays Mews Mayfair, London W1J 5NY England",+44 20 7499 3331,4.5,44.78 - 154.27,"French, Contemporary, Fusion",,"Vegetarian Friendly, Vegan Options",,452
+The Square Tavern,"26 Tolmers Square, London NW1 2PE England",+44 20 3583 8291,4.0,,"Bar, Pub","Lunch, Dinner",Vegetarian Friendly,,453
+Hobson's Fish & Chips,"9 Porchester Road, London W2 5DP England",+44 20 7229 4161,4.5,9.95 - 29.86,"Seafood, European, British",,Gluten Free Options,,454
+Maharaja of India,"19A Charing Cross Road, London WC2H 0ET England",+44 20 3091 3500,4.5,14.93 - 29.86,"Indian, Asian, Bar, Pub, Beer restaurants",,Vegetarian Friendly,,455
+Whiskey Ginger,"2 Green Dragon Court, London SE1 9AW England",+44 20 7407 3058,4.5,4.97 - 9.95,"Bar, British",,Vegetarian Friendly,,456
+Kilis Kitchen,"4 Theberton Street Angel, Islington, London N1 0QX England",+44 20 7226 5489,4.5,5.97 - 24.88,"Mediterranean, European, Turkish, Middle Eastern",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,457
+Salaam Namaste,"68 Millman Street Off Guilford Street, London WC1N 3EF England",+44 20 7405 3697,4.0,14.24 - 19.78,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,458
+Corrigan's,"28 Upper Grosvenor Street, London W1K 7EH England",+44 20 7499 9943,4.5,23.89 - 159.24,"Irish, British, Grill",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,459
+La Saporita,"174 Tollington Park Finsbury Park, London N4 3AJ England",+44 20 7272 5040,4.5,,"Italian, Pizza, Mediterranean, European","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options",,460
+Colonel Saab,"193-197 High Holborn, London Holborn Town Hall, London WC1V 7BD England",+44 20 8016 6800,4.5,34.84 - 59.72,"Indian, International, Contemporary","Lunch, Dinner, Late Night, Drinks",,,461
+Cord by Le Cordon Bleu,"85 Fleet Street, London EC4Y 1AE England",+44 20 3143 6365,4.0,25.31 - 72.79,"French, International, European","Lunch, Dinner, Drinks",,,462
+Tajrish Restaurant,"33 Craven Road Bayswater, London W2 3BX England",+44 7539 172679,4.5,3.98 - 15.92,"Middle Eastern, Persian",,"Vegetarian Friendly, Vegan Options",,463
+Bella Italia,"70 St. Martin's Lane, London WC2N 4JS England",+44 20 3004 4421,4.0,6.97 - 15.92,"Italian, Pizza, Mediterranean",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,464
+Casa Tua King's Cross,"106 Cromer Street, London WC1H 8BZ England",+44 20 7833 1483,4.5,2.99 - 14.93,"Italian, Mediterranean, Sicilian, Southern-Italian, Apulian",,"Vegetarian Friendly, Gluten Free Options",,465
+Pollen Street Social,"8-10 Pollen Street, London W1S 1NG England",+44 20 7290 7600,4.5,,"European, British","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,466
+Strada Southbank,"337-338 Belvedere Rd Royal Festival Hall, London SE1 8XX England",+44 20 7401 9126,4.0,9.95 - 24.88,"Italian, Pizza, Sicilian, Southern-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,467
+Maharaja of India,"19A Charing Cross Road, London WC2H 0ET England",+44 20 3091 3500,4.5,14.93 - 29.86,"Indian, Asian, Bar, Pub, Beer restaurants",,Vegetarian Friendly,,468
+Carpe Diem,"1376 High Road Whetstone, London N20 9BH England",+44 20 8445 4853,5.0,,"Mediterranean, Cafe, European","Breakfast, Lunch, Brunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,469
+Vegan Yes,"64 Brick Lane Shoreditch, London E1 6RF England",+44 7933 028570,5.0,,"Italian, Asian, Korean, Healthy, Street Food","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,470
+10 Greek Street,"10 Greek Street, London W1D 4DH England",+44 20 7734 4677,4.5,,European,"Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,471
+Kricket Soho,"12 Denman Street, London W1D 7HH England",+44 20 3019 8120,4.5,,"Indian, Asian","Brunch, Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,472
+Pizza Pilgrims,"11 Kingly Street, London W1B 5PL England",+44 20 7287 2200,4.5,4.97 - 14.93,"Italian, Neapolitan, Campania, Southern-Italian",,"Vegetarian Friendly, Vegan Options",,473
+The Restaurant at The Capital,"22-24 Basil Street Knightsbridge, London SW3 1AT England",+44 20 7591 1202,4.5,29.86 - 99.53,"British, European",,"Vegetarian Friendly, Gluten Free Options",,474
+Dishoom Kensington,"4 Derry Street, London W8 5SE England",+44 20 7420 9325,4.5,2.99 - 24.88,"Indian, Asian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,475
+The Gardeners Pub,"Southfields 268 Merton Road, London SW18 5JL England",+44 20 3601 2455,4.5,3.95 - 19.78,"Bar, British, Pub",,Vegetarian Friendly,,476
+The Laughing Halibut,"38 Strutton Ground just south of St James Park tube station Scotland Yard exitr, London SW1P 2HR England",+44 20 7799 2844,4.5,,"Seafood, Fast Food, British","Lunch, Dinner",,"Takeout, Seating, Wheelchair Accessible, Free Wifi, Accepts Credit Cards, Table Service",477
+Zaika,"1 Kensington High Street, London W8 5NP England",+44 20 7795 6533,4.5,,"Indian, Asian","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,478
+Canada Water Cafe,"40 Victoria House 38 Surrey Quays Road, London SE16 7DX England",+44 20 3668 7518,4.5,4.97 - 39.81,"Italian, Pizza, Mediterranean",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,479
+Sen Viet,"119 King's Cross Road, London WC1X 9NH England",+44 20 7278 2881,4.5,,"Asian, Vietnamese","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,480
+Japes,"Japes 22-25 Dean Street Soho, London W1D 3RY England",+44 7395 635765,4.5,8.96 - 17.92,"Pizza, International",,"Vegetarian Friendly, Vegan Options",,481
+Cilantro,"244 Upper Richmond Road, London SW15 6TG England",+442033439317,5.0,,Indian,"Dinner, Brunch",,"Reservations, Delivery, Takeout, Seating, Street Parking, Serves Alcohol, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Family style, Non-smoking restaurants",482
+Abeno,"47 Museum Street, London WC1A 1LY England",+44 20 7405 3211,4.5,,"Japanese, Asian","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,483
+Revolution America Square,"1 America Square Tower Hill, London EC3N 2LS England",+44 20 3355 7500,4.5,6.97 - 11.95,"American, Bar",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,484
+Boqueria,"278 Queenstown Road, London SW8 4LT England",+44 20 7498 8427,4.5,,"Mediterranean, European, Spanish","Lunch, Dinner, Brunch, Late Night","Vegetarian Friendly, Vegan Options, Gluten Free Options",,485
+Nenno Pizza Restaurant,"14-16 Caledonian Road, London N1 9DU England",+44 20 7833 2790,4.5,14.93 - 29.86,"Italian, Pizza, European, Mediterranean",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,486
+Sahara Grill Hounslow,"101-105 High Street Hounslow, London TW3 1QT England",+44 20 3026 1111,4.5,11.95 - 29.86,"Steakhouse, Grill, Fusion",,"Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,487
+Cacio & Pepe,"46 Churton Street, London SW1V 2LP England",+44 20 76307588,4.5,19.91 - 39.81,"Italian, Mediterranean, European, Romana, Lazio, Central-Italian",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,488
+Scoff And Banter Kensington,"68-86 Cromwell Road, London SW7 5BT England",+44 20 7666 1891,4.5,21.89 - 24.88,"European, British",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,489
+Provender,"17 High Street Wanstead Wanstead, London E11 2AA England",+44 20 8530 3050,4.5,9.95 - 29.86,"French, European",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,490
+Tia Rosa,"118 King's Cross Road, London WC1X 9DS England",+44 20 7837 5304,4.5,7.96 - 44.78,"Mediterranean, European, Portuguese, International, Grill","Lunch, Dinner, Brunch, Drinks",,,491
+The Hampshire,"225-227 King Street Hammersmith, London W6 9JT England",+44 20 8748 3391,5.0,9.95 - 49.76,Indian,,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,492
+Satyrio Restaurant & Wine Merchants,"49 Aldgate High Street, London EC3N 1AL England",+44 20 7488 3334,4.5,14.93 - 39.81,"Italian, Mediterranean, Wine Bar",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,493
+Hotaru,"145-147 Wandsworth High Street, London SW18 4JB England",+44 20 3784 0540,5.0,,"Japanese, Sushi, Asian","Lunch, Dinner, Drinks","Vegetarian Friendly, Vegan Options, Gluten Free Options",,494
+Tia Rosa,"118 King's Cross Road, London WC1X 9DS England",+44 20 7837 5304,4.5,7.96 - 44.78,"Mediterranean, European, Portuguese, International, Grill","Lunch, Dinner, Brunch, Drinks",,,495
+Meat People,"4-6 Essex Road, London N1 8LN England",+44 20 7359 5361,4.5,,"Steakhouse, European, British, Argentinean","Lunch, Dinner, Brunch, Late Night","Vegetarian Friendly, Gluten Free Options",,496
+Flat Iron,"44 James Street Marylebone, London W1U 1EY England",Website,5.0,9.95 - 24.88,Steakhouse,"Lunch, Dinner, Drinks",,,497
+28 Church Row,"28 Church Row, London NW3 6UP England",+44 20 7993 2062,4.5,,"Italian, European, Spanish","Lunch, Dinner","Vegetarian Friendly, Vegan Options, Gluten Free Options",,498
+Chesterfield Arms,"50 Hertford Street, London W1J 7SS England",+44 20 7499 3017,4.5,14.93 - 29.86,"British, Pub","Lunch, Dinner, Drinks",,,499
+Colonel Saab,"193-197 High Holborn, London Holborn Town Hall, London WC1V 7BD England",+44 20 8016 6800,4.5,34.84 - 59.72,"Indian, International, Contemporary","Lunch, Dinner, Late Night, Drinks",,,500
+Las Iguanas Stratford Westfield,"Level 2 The Gallery Westfield, London E20 1ET England",+44 20 3031 7573,4.0,4.97 - 15.92,"Mexican, Brazilian, Latin, Bar, Central American",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,501
+The Honest Italian,"13, Station Parade Balham High Road, London SW12 9AZ England",+44 20 8772 0636,4.5,,"Italian, Pizza","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options",,502
+Speedy's Sandwich Bar & Cafe,"187 North Gower Street Kings Cross, London NW1 2NJ England",+44 20 7383 3485,4.5,,"Cafe, British","Breakfast, Lunch, Brunch","Vegetarian Friendly, Vegan Options, Gluten Free Options",,503
+Sticks'n'Sushi Greenwich,"1 Nelson Road Greenwich, London SE10 9JB England",+44 20 3141 8220,4.5,19.78 - 47.47,"Japanese, Sushi, Asian, European, Healthy, Danish",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,504
+Barrica,"62 Goodge Street, London W1T 4NE England",+44 20 7436 9448,4.5,14.93 - 34.84,"Mediterranean, European, Spanish",,"Vegetarian Friendly, Vegan Options, Gluten Free Options",,505
+Muse,"38 Groom Place Belgravia, London SW1X 7BA England",+44 20 3301 2903,5.0,59.72 - 144.31,British,"Lunch, Dinner, Drinks",,,506
+A.Wong,"70 Wilton Road, London SW1V 1DE England",+44 20 7828 8931,4.5,,"Chinese, Asian","Lunch, Dinner","Vegetarian Friendly, Gluten Free Options",,507
+Shah Tandoori,"159 Drummond Street, London NW1 2PB England",+44 20 7383 5677,4.5,9.95 - 34.84,"Indian, Balti, Bangladeshi, Asian, Street Food",,"Vegetarian Friendly, Vegan Options, Gluten Free Options, Halal",,508
+Visconti Of Westminster,"Marsham Court Marsham Street, London SW1P 4LA England",+44 20 8191 1781,5.0,17.92 - 51.76,"Italian, Bar, Mediterranean, Pub, Central-Italian, Southern-Italian","Lunch, Dinner, Drinks",,,509
+Bombay Spice,"50 Paddington Street, London W1U 4HP England",+44 20 7224 0954,4.5,,"Indian, Balti, Bangladeshi","Lunch, Dinner, Late Night","Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",,510
+Spice Village Tooting,"121 Upper Tooting Road, London SW17 7TJ England",+44 20 8672 0710,4.0,14.93 - 34.84,"Asian, Pakistani, Grill",,"Vegetarian Friendly, Vegan Options, Halal",,511
+The Square Tavern,"26 Tolmers Square, London NW1 2PE England",+44 20 3583 8291,4.0,,"Bar, Pub","Lunch, Dinner",Vegetarian Friendly,,512
