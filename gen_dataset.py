@@ -1,6 +1,6 @@
 import pandas as pd
 import openai
-key = "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"
+key = "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"
 api_key = key#"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"
 openai.api_key = api_key
 import requests
@@ -112,7 +112,7 @@ def main():
     datasets_lst = []
     while(chatbot):
         chat_dataset = {}
-
+        print(data_df.Name.values)
         user_input = input("Your Message:")
         # system_input = input("System message:")
         final_input = input("Bot Message: ")
