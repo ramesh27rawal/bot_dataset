@@ -45,7 +45,7 @@ def prepare_message(input_message, products_list, trigger):
 
     # message_objects.append({"role": "user", "content": f"Here're my latest restaurant visit: {prev_purchases}"})
     #
-    if trigger == 1:
+    if trigger == '1':
         message_objects.append(
             {"role": "user", "content": f"Please  give "
                                         f" details of restaurants with  explanation."})
