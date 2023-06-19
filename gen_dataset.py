@@ -13,7 +13,7 @@ if not os.path.isfile(filename):
 
 
 def data_prepare():
-    df = pd.read_csv("/Users/rameshrawal/PycharmProjects/recommend_project/london_resturants_data.csv")
+    df = pd.read_csv("london_resturants_data.csv")
     # df=df.dropna()
     # df=df[df['City'] == 'Amsterdam']
     print(df.shape)
