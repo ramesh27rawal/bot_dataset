@@ -10,6 +10,8 @@ import json
 filename = "chat_dataset.csv"
 if not os.path.isfile(filename):
     df_data= pd.DataFrame()
+else:
+    df_data = pd.read_csv("chat_dataset.csv")
 
 
 def data_prepare():
@@ -31,9 +33,9 @@ def data_prepare():
     return filt_df
 
 
-def prepare_message(input_message, products_list, trigger):
+def prepare_message(input_message, products_list):
     message_objects = []
-    system_message = "You are a chatbot helping customers with restaurants, answering their query and give the details if needed." # + input_message[2]
+    system_message = "You are a chatbot helping customers with restaurants in London, answering their query and give the details if needed." # + input_message[2]
     message_objects.append({"role": "system", 'content': system_message})
                             # "content": "You're a chatbot helping customers"
                             #            " with restaurants and helping them with asked number of restaurants recommendations"})
@@ -45,22 +47,23 @@ def prepare_message(input_message, products_list, trigger):
 
     # message_objects.append({"role": "user", "content": f"Here're my latest restaurant visit: {prev_purchases}"})
     #
-    if trigger == '1':
-        message_objects.append(
-            {"role": "user", "content": f"Please  give "
-                                        f" details of restaurants with  explanation."})
-    else:
-        message_objects.append(
-            {"role": "user", "content": f"Dont give me details of restaurant."})
+
+    # if trigger == '1':
+    message_objects.append(
+        {"role": "user", "content": f"Please  give "
+                                    f" details of restaurants with  explanation."})
+    # else:
+    #     message_objects.append(
+    #         {"role": "user", "content": f"Dont give me details of restaurant."})
     message_objects.append({"role": "user",
                             "content": "Please be friendly and talk to"
                                        " me like a person, Don't just give me details of restaurant"})
     # message_objects.append({"role": "assistant", "content": f"I found these restaurants I would recommend"})
 
     message_objects.extend(products_list)
-    if input_message[1] != "":
-        print("Inside")
-        message_objects.append({"role": "assistant", "content": input_message[1]})
+    # if input_message[1] != "":
+    #     print("Inside")
+    message_objects.append({"role": "assistant", "content": input_message[0]})
     #                         # "content": "Here's the details of cuisines served in restaurant:"})
 
     return message_objects
@@ -118,12 +121,12 @@ def main():
         chat_dataset = {}
         print(data_df.Name.values)
         user_input = input("Your Message:")
-        text = "Enter\n1   for  Please just give details of restaurants with  explanation.\n" \
-               "2   for Dont give me the details for restaurant.\n"
-        trigger = input(text)
-        final_input = input("Bot Message: ")
-        input_message = [user_input, final_input]#, system_input]
-        message = prepare_message(input_message, products_list, trigger)
+        # text = "Enter\n1   for  Please just give details of restaurants with  explanation.\n" \
+        #        "2   for Dont give me the details for restaurant.\n"
+        # trigger = input(text)
+        # final_input = input("Bot Message: ")
+        input_message = [user_input]#, system_input]
+        message = prepare_message(input_message, products_list)
         responses = feed_chatgpt_model(message)
         print(responses)
         # chat_dataset["system"] = system_input
